@@ -101,6 +101,12 @@
             "note": "",
             "description": "<1>Onsite registration</1><br/>available."
         },
+        "6": {
+            "title": "VIP",
+            "name": "VIP",
+            "note": "",
+            "description": ""
+        },
         "includes": {
             "title": "TICKET INCLUDES",
             "description": [

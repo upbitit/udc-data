@@ -103,6 +103,12 @@
             "note": "",
             "description": "미리 티켓을 구매하지 못한 분은<br/><1>현장에서 티켓을 구매</1>하실 수 있습니다."
         },
+        "6": {
+            "title": "VIP",
+            "name": "VIP",
+            "note": "",
+            "description": ""
+        },
         "includes": {
             "title": "티켓포함사항",
             "description": [
