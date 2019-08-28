@@ -346,7 +346,7 @@ section.page-sec.special-event .btnW.ty02 a.btn:lang(en) em { display:block; }
 .hands-list li .topB img.mobile-only { display:none; }
 .hands-list li .topB span em { display:block;width:100%;margin-top:27px;color:#0367d9;font-size:18px; }
 .hands-list li .topB span strong { display:block;width:100%;height:50px;margin-top:11px;color:#222222;font-size:18px;/*white-space:nowrap;text-overflow:ellipsis;overflow:hidden;*/ }
-.hands-list li .topB span cite { display:block;width:100%;margin-top:7px;color:#666666;font-size:16px; }
+.hands-list li .topB span cite { display:block;width:100%;margin-top:7px;color:#666666;font-size:16px;font-weight:700 !important; }
 .hands-list li .topB p { height:150px;margin-top:7px;color:#555555 !important;font-size:16px; }
 .hands-list li .topB p em { display:block;color:#0367d9; }
 .hands-list li .botB { display:block;width:100%;margin:0 auto;padding:34px 8%;box-sizing:border-box; }
