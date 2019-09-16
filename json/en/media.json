@@ -10,5 +10,5 @@
   "openLink": "Link to article",
   "openAttachment": "Attachment ",
   "morePicturesLink": "https://www.flickr.com/photos/184193566@N02/albums",
-  "morePictures": "Click here to see more pictures. Open from Sep. 5th(Thu) to Sep. 20th(Fri)."
+  "morePictures": "Click <a href='https://www.flickr.com/photos/184193566@N02/albums'>here</a> to see more pictures."
 }
