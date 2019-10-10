@@ -8,15 +8,17 @@
         "description_m": "The Upbit Developer Conference combines<br/>free exchange of ideas, numerous networking<br/>events, and programs for future blockchain<br/>game changers to present the ultimate<br/>developer-centric conference.<br/>We invite you to be a part of UDC 2019,<br/>the next big event for blockchain developers.<br/>Join us next September at Upbit Developer<br/>Conference 2019 to celebrate blockchain<br/>technology and developers."
     },
     "about": {
-        "title": "About UDC 2018",
+        "title": "About UDC 2019",
         "description": "Check out last year’s event and<br/>catch a glimpse of how UDC differs<br/>from other events",
         "description_m": "Check out last year’s event and catch a glimpse of<br/>how UDC differs from other events",
         "attendees": "Attendees",
-        "attendeesCount": "1600",
+        "attendeesCount": "2500",
         "companies": "Companies",
-        "companiesCount": "210",
+        "companiesCount": "370",
         "sessions": "Sessions",
-        "sessionsCount": "35"
+        "sessionsCount": "50",
+        "articles": "Articles",
+        "articlesCount": "610"
     },
     "program": {
         "conference": {
