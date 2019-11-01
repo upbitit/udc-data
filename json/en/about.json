@@ -1,4 +1,168 @@
 {
+  "feedbacks2019": [
+    {
+      "title" : "“Great, Exciting Conference! <br/>You’ll Get High-Quality Insights from UDC.”",
+      "title_m" : "“Great, Exciting Conference! <br/>You’ll Get High-Quality Insights from UDC.”",
+      "name" : "Leemon Baird",
+      "company" : "(Hedera Hashgraph Co-Founder & Chief Scientist)",
+      "description" : "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_01.png"
+    },
+    {
+      "title" : "“Best Organized Conference Where <br/>Everyone can Learn from Each Other”",
+      "title_m" : "“Best Organized Conference Where <br/>Everyone can Learn from Each Other”",
+      "name" : "Houman Haddad",
+      "company" : "(United Nations World Food Programme Head of Emerging Technologies)",
+      "description" : "“For one thing, it’s the best organized conference I’ve ever been to by far. The other thing is that it has non-commercial quality. Everyone who has come hereis to explain what they’re doing, what they’re excited about, and more importantly to learn from each other. It’s a great feeling to participate in this conference.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_02.png"
+    },
+    {
+      "title" : "“A Different Level of Sophistication”",
+      "title_m" : "“A Different Level of Sophistication”",
+      "name" : "Kevin Abosch",
+      "company" : "(Studio Kevin Abosch Artist)",
+      "description" : "“UDC is calm and collected with sophisticated audience. It has a different level of sophistication compared to other events. Also, I was taken care of really nicely, was able to engage with other presenters. The organizers paid attention to details and that was really helpful.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_03.png"
+    },
+    {
+      "title" : "“Serious, Professional, and Cool “",
+      "title_m" : "“Serious, Professional, and Cool “",
+      "name" : "Yan Zhu",
+      "company" : "(Brave Software Chief Information Security Officer)",
+      "description" : "“The people at UDC are more serious and professional. Also, the contents and layout of the event was impressive. It’s much more well-organized with a lot of places to take photos. Very cool!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_04.png"
+    },
+    {
+      "title" : "“Such a Privilege to be at UDC, <br/>a Fascinating Event with Great Production!”",
+      "title_m" : "“Such a Privilege to be at UDC, <br/>a Fascinating Event with Great Production!”",
+      "name" : "Timothy Li",
+      "company" : "(Theta Labs Head of Platform)",
+      "description" : "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_05.png"
+    },
+    {
+      "title" : "“What is Special About UDC is <br/>Spirit of Developers.”",
+      "title_m" : "“What is Special About UDC is <br/>Spirit of Developers.”",
+      "name" : "Jan Junge",
+      "company" : "(Daimler Mobility Blockchain Developer & Product Owner)",
+      "description" : "“What is special about UDC is the spirit of the developers, who are open to share their experience and best practices. Come join here to take advantage of what it has to offer! If you are a speaker, don’t be afraid; just do it! People will love it. You will love it. It’s a great experience.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_06.png"
+    },
+    {
+      "title" : "“Awesome, Vibrant and Energetic” ",
+      "title_m" : "“Awesome, Vibrant and Energetic” ",
+      "name" : "Alexander Höptner",
+      "company" : "(Boerse Stuttgart CEO)",
+      "description" : "“It’s an awesome experience. UDC is vibrant and full of energy. It’s all about experience; there is no probing or testing. People here know what they are talking about, and really into the topic. What an experience!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_07.png"
+    },
+    {
+      "title" : "“UDC Connects All Those Thinking About <br/>the Future of Blockchain.”",
+      "title_m" : "“UDC Connects All Those Thinking About <br/>the Future of Blockchain.”",
+      "name" : "Richard Choi",
+      "company" : "(Carry Protocol Co-Founder & Co-CEO)",
+      "description" : "“It felt like everyone at UDC were having meaningful conversations on real issues facing blockchain technology, rather than just talking about their own achievements. I also had the opportunity to interact with other speakers from various fields, like Kevin Abosch, and it was truly inspiring.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_08.png"
+    },
+    {
+      "title" : "“Healthy Discussions on How Blockchain <br/>will be Utilized in the Future.”",
+      "title_m" : "“Healthy Discussions on How Blockchain <br/>will be Utilized in the Future.”",
+      "name" : "Jason Han",
+      "company" : "(CEO of Ground X)",
+      "description" : "“There were definitely more developers and a wider range of programs compared to UDC 2018. This year’s event focused on real cases and not just on the technology, with great discussions on how the technology should be applied.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_09.png"
+    },
+    {
+      "title" : "“A Conference that Offers <br/>Both Motivation and Insight”",
+      "title_m" : "“A Conference that Offers <br/>Both Motivation and Insight”",
+      "name" : "Yong-Ku Lee",
+      "company" : "(Riiid CTO)",
+      "description" : "“What makes UDC special is that it features not just practical discussions, but philosophical ones as well, such as the future of the blockchain technology and where it should be headed. I’m originally an AI developer, so the networking events were a great way for me to gain meaningful insight from blockchain experts.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_10.png"
+    },
+    {
+      "title" : "“Gaining First-Hand Experience of Various <br/>Blockchain Services was Quite Instructive .”",
+      "title_m" : "“Gaining First-Hand Experience of Various <br/>Blockchain Services was Quite Instructive .”",
+      "name" : "Woo-Ram Son",
+      "company" : "(Mossland CEO)",
+      "description" : "“Among all the UDC 2019 programs, I’ve really enjoyed the exhibition zones and the hands-on sessions. It was great to gain first-hand experience of new blockchain services developed by different companies.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_11.png"
+    },
+    {
+      "title" : "“Well-Structured, Professional and Meaningful”",
+      "title_m" : "“Well-Structured, Professional and Meaningful”",
+      "name" : "Sang-Sik Joo",
+      "company" : "(Head of SM Entertainment CT-AI Labs)",
+      "description" : "“UDC was well-structured and professional. I’m happy to see this conference establish itself as a major event for blockchain developers. I was honored to be part of this meaningful event.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_12.png"
+    },
+    {
+      "title" : "“UDC is Always Fun!”",
+      "title_m" : "“UDC is Always Fun!”",
+      "name" : "Hye-Young Park",
+      "company" : "(Amazon Web Services Senior Solutions Architect)",
+      "description" : "“This year’s hands-on session was joined by many developers who are tackling practical issues related to blockchain technology. Much like last year, it was a fun and exciting experience for industry professionals like me.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_13.png"
+    },
+    {
+      "title" : "“Hands-on is a Great Session for <br/>Non-Developers As Well.”",
+      "title_m" : "“Hands-on is a Great Session for <br/>Non-Developers As Well.”",
+      "name" : "Young Yoon",
+      "company" : "(FirmaChain CEO)",
+      "description" : "“Even though I am not a developer, I had no problem following the instructor.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_14.png"
+    },
+    {
+      "title" : "“UDC is a Conference You <br/>Want to Attend Every Year.”",
+      "title_m" : "“UDC is a Conference You <br/>Want to Attend Every Year.”",
+      "name" : "Intime",
+      "company" : "(Hackathon Winner Team)",
+      "description" : "“Everyone knows about UDC and I’ve been here both years. I’m already excited for UDC 2020 because they do a great job of choosing pertinent themes.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_15.png"
+    },
+    {
+      "title" : "“UDC is a Great Event for <br/>Both Developers and Non-Developers”",
+      "title_m" : "“UDC is a Great Event for <br/>Both Developers and Non-Developers”",
+      "name" : "Jae-Yoon Shin",
+      "company" : "(Sogang University Student major in American Culture)",
+      "description" : "“Blockchain isn’t an easy subject to understand, but they did a great job of explaining how the technology will impact end-users like me. Even though there aren’t a lot of mainstream services, it’s obvious that blockchain’s potentialis immense.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_16.png"
+    },
+    { 
+      "title" : "“It was an Eye-Opening Experience!”",
+      "title_m" : "“It was an Eye-Opening Experience!”",
+      "name" : "Sang-Min Lee ",
+      "company" : "(Kangwon University Student)",
+      "description" : "“UDC completely changed my preconceived notions regarding blockchain. I thought it was a finance-related technology, but I learned that it’s also being widely adopted in industries such as consumer goods and the energy.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_17.png"
+    },
+    {
+      "title" : "“I’m Excited for Future UDCs”",
+      "title_m" : "“I’m Excited for Future UDCs”",
+      "name" : "Milla Choi",
+      "company" : "(Origin Protocol Korea Branch Manager)",
+      "description" : "“I’m looking forward to how UDC will evolve in the future. This year’s theme of ‘Proof of Services’ provided a great opportunity to learn about how blockchain technology is impacting our lives. I also enjoyed the diverse array of events.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_18.png"
+    }
+  ],
   "feedbacks": [
     {
       "title": "“An Event<br/>that Brings Developers Together”",
