@@ -9,7 +9,7 @@
   "ticket": "Ticket",
   "viewMore": "View More",
   "attendedPastEvent": {
-    "label": "UDC 2018 attended",
+    "label": "UDC 2018 attended<span class=\"tip\">*</span>",
     "checkboxLabel": "Yes",
     "udc2018": "UDC 2018",
     "udc2019Exhibition": "UDC 2019 Exhibition"
@@ -25,7 +25,7 @@
     "etc": "Others"
   },
   "funnel": {
-    "label": "How did you <br class=\"pc-only\"/>hear about UDC <br class=\"pc-only\"/>2019",
+    "label": "How did you <br class=\"pc-only\"/>hear about UDC <br class=\"pc-only\"/>2020<span class=\"tip\">*</span>",
     "dunamu": "Upbit/Dunamu Site",
     "online_ad": "Upbit/Dunamu<br/>Social Media",
     "news": "Media Reports",
@@ -56,7 +56,7 @@
   "phoneNumber": "Mobile Phone Number",
   "phoneNumberPlaceholder": "Mobile Phone Number",
   "countryNumber": "Country Number",
-  "email": "E-mail",
+  "email": "E-mail<span class=\"tip\">*</span>",
   "companyKo": "Department Kor",
   "companyEn": "Company",
   "position": "Position",
