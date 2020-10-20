@@ -10,7 +10,7 @@
   },
   "step2": {
     "title": "2. 정보입력",
-    "subscriptor": "신청자 정보",
+    "subscriptorInfo": "신청자 정보",
     "alreadyRegisteredPhoneNumber": "해당 핸드폰 번호는 이미 등록되어 있습니다.",
     "alreadyRegisteredPhoneNumber_m": "해당 핸드폰 번호는<br>이미 등록되어 있습니다.",
     "note": {
