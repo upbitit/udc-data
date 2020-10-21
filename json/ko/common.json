@@ -9,7 +9,7 @@
     "viewMore": "View More",
     "delete": "삭제",
     "attendedPastEvent": {
-        "label": "지난 행사 참석 여부<span class=\"tip\">*</span>",
+        "label": "지난 행사 참석 여부",
         "checkboxLabel": "UDC 2018 참석"
     },
     "typeContent": "내용을 기입해 주세요.",

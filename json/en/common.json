@@ -9,7 +9,7 @@
   "ticket": "Ticket",
   "viewMore": "View More",
   "attendedPastEvent": {
-    "label": "UDC 2018 attended<span class=\"tip\">*</span>",
+    "label": "UDC 2018 attended",
     "checkboxLabel": "Yes",
     "udc2018": "UDC 2018",
     "udc2019Exhibition": "UDC 2019 Exhibition"
