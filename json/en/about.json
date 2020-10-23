@@ -398,14 +398,12 @@
       }
     ],
     "texts": [
-      "Welcome to the <span class=\"bold\">Upbit Developer Conference!</span>\nUDC is a true developer-centric event where <br class=\"mobile-only\"/>participants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
-      "Dunamu, the operator of crypto-asset exchange Upbit, hosted the inaugural Upbit Developer <br class=\"mobile-only\"/>Conference last September in South Korea’s Jeju Island in an effort to foster and grow the blockchain ecosystem. It is one of the first conferences in the world solely dedicated to blockchain development.",
-      "UDC is a place where developers interested in blockchain technology can come together for in-depth discussions on key innovations and global trends.\nIt is where attendees can find inspirations for impactful technological advancements that can evolve into tangible services that prove the merits of blockchain.",
-      "The slogan for last year’s inaugural event was <span class=\"bold\">‘Proof of Developer.’</span>\nJust as developers provide proof of their work on the blockchain, experts from around the world gathered at UDC 2018 to share their blockchain projects with the rest of the ecosystem.\n Being one of the first conferences dedicated entirely to developers, UDC offered a meaningful experience to both the presenters and attendees.",
-      "This year, UDC will feature numerous blockchain services born from the ideas and hard work of developers. It will be a terrific opportunity <br class=\"mobile-only\"/>to see first-hand how developers are shaping the future through blockchain technology.",
-      "UDC 2019 will bring together developers from around the globe for meaningful exchange of ideas with world-class experts, as well productive networking events and hands-on programs for the next <br class=\"mobile-only\"/>generation of developers."
+      "<span class=\"bold\">Upbit Developer Conference!</span> is a true developer-centric event where <br class=\"mobile-only\"/>participants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
+      "Dunamu, the operator of digital asset exchange Upbit, hosted the inaugural Upbit Developer <br class=\"mobile-only\"/>Conference in 2018 in an effort to foster and grow the blockchain ecosystem. It is one of the first conferences in the world solely dedicated to blockchain development.",
+      "<span class=\"bold\">UDC 2019</span> featured numerous services born from the ideas and hard works of blockchain developers, offering a terrific opportunity <br class=\"mobile-only\"/>to see first-hand how blockchain technology is shaping the future.",
+      "UDC 2019 brought together developers from around the globe for meaningful exchange of ideas with world-class experts, as well productive networking events and hands-on programs for the next <br class=\"mobile-only\"/>generation of developers."
     ],
-    "highlight_msg": "Please join us at Upbit Developer Conference in September 2019 for the largest celebration of blockchain technology and developers.",
+    "highlight_msg": "",
     "concepts": [
       {
         "title": "A Communication Platformfor Developers",
