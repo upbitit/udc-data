@@ -23,5 +23,8 @@
         "[ UDC 준비사무국 ] E-mail: udc_reg@upbit.com  <br class=\"mobile-only\"/>전화: 02-6242-2827"
       ]
     }
+  },
+  "check": {
+    "title": "참가자 정보"
   }
 }
