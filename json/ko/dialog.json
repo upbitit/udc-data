@@ -13,7 +13,7 @@
       },
       {
         "title": "사전 예약하기",
-        "path": "/subscription/form"
+        "path": "/subscription"
       }
     ]
   },
