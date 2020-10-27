@@ -1,7 +1,7 @@
 {
   "login_from_my_ticket": {
-    "title": "나의 티켓 정보 확인",
-    "description": "최초 티켓 구매 시 입력하신 휴대폰 번호와 비밀번호를 통해 구매 정보를 확인하실 수 있습니다."
+    "title": "나의 신청 정보 확인",
+    "description": "사진 신청 시 입력하신 휴대폰 번호와 비밀번호를 통해 구매 정보를 확인하실 수 있습니다."
   },
   "login_from_buy_more_ticket": {
     "title": "추가 티켓 구매",
@@ -9,7 +9,7 @@
   },
   "find_pw": {
     "title": "비밀번호 찾기",
-    "description": "구매자 성명과 휴대폰 번호를 입력해주세요.",
+    "description": "신청자 성명과 휴대폰 번호를 입력해주세요.",
     "namePlaceholder": "이름",
     "phonePlaceholder": "휴대폰 번호",
     "verificationPlaceholder": "인증번호 입력",
