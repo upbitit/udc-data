@@ -24,8 +24,13 @@
       ]
     }
   },
-  "check": {
-    "title": "참가자 정보"
+  "step3": {
+    "title": "참가자 정보",
+    "ticketNumber": "예약번호",
+    "name": "이름",
+    "company": "소속명",
+    "phoneNumber": "핸드폰번호",
+    "email": "이메일"
   },
   "success": "사전 예약이 완료되었습니다."
 }
