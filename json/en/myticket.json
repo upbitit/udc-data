@@ -1,7 +1,11 @@
 {
   "login_from_my_ticket": {
-    "title": "My Ticket",
-    "description": "You can check your information using your e-mail address and password after you purchase your first ticket."
+    "title": "Confirm Sign-Up Information",
+    "description": "Please enter the mobile phone number and password you used."
+  },
+  "check_subscription": {
+    "title": "Confirm Sign-Up Information",
+    "description": "Please enter the mobile phone number and password you used."
   },
   "login_from_buy_more_ticket": {
     "title": "Buy more tickets",

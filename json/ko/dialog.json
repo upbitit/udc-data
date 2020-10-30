@@ -8,8 +8,7 @@
     },
     "buttons": [
       {
-        "title": "확인",
-        "path": "/login"
+        "title": "확인"
       },
       {
         "title": "사전 예약하기",

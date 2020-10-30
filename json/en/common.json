@@ -9,10 +9,8 @@
   "ticket": "Ticket",
   "viewMore": "View More",
   "attendedPastEvent": {
-    "label": "UDC 2018 attended",
-    "checkboxLabel": "Yes",
-    "udc2018": "UDC 2018",
-    "udc2019Exhibition": "UDC 2019 Exhibition"
+    "label": "UDC experience",
+    "checkboxLabels": ["UDC 2018", "UDC 2019"]
   },
   "typeContent": "Please fill in the blank.",
   "occupation": {
@@ -22,16 +20,16 @@
     "planner": "Technical support",
     "press": "Public Relations / Media",
     "education": "Related institution",
-    "etc": "Others"
+    "etc": "Other"
   },
   "funnel": {
     "label": "How did you <br class=\"pc-only\"/>hear about UDC <br class=\"pc-only\"/>2020</span><span class=\"tip\">*</span>",
     "dunamu": "Upbit/Dunamu Site",
-    "online_ad": "Upbit/Dunamu<br/>Social Media",
+    "online_ad": "Upbit/Dunamu Social Media",
     "news": "Media Reports",
     "viral": "Word of Mouth",
-    "community": "Online<br/>Communities",
-    "etc": "Others"
+    "community": "Online Communities",
+    "etc": "Other"
   },
   "firstName": "First Name",
   "lastName": "Last Name",

@@ -1,6 +1,10 @@
 {
   "login_from_my_ticket": {
     "title": "예약 내역 조회",
+    "description": "예약 시 입력하신 휴대폰 번호와 비밀번호를 입력해주세요."
+  },
+  "subscription_check": {
+    "title": "예약 내역 조회",
     "description": "예약 시 입력하신 휴대폰 번호와 비밀번호를 통해 구매 정보를 확인하실 수 있습니다."
   },
   "login_from_buy_more_ticket": {
