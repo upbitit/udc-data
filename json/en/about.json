@@ -429,5 +429,60 @@
         ]
       }
     ]
+  },
+  "2020": {
+    "subTitle": "Solving the Future with Blockchain",
+    "description": "With the theme of `return blockchain * future;`<br/>UDC 2020 will discuss the role and impact of blockchain in the pandemic era<br/>and where the industry is headed in 2021 and beyond",
+    "whatIs": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
+    "whatIsM": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
+    "about": [
+      "Since COVID-19 has hii the world,<br/>living with the virus has become a part of our daily lives,",
+      "The everyday things we used to do,<br/>like spending time with family<br/>hanging out with friends and<br/>taking a awalk aroound the neighborhood,<br/>have become something that is no longer \"normal\".",
+      "The changes brought about by COVID-19 are completely transforming our daily lives and perceptions.",
+      "So, what should we worry about during these challenging times?<br/>What are the concerns of developers in the blockchain industry?<br/>How can blockchain help us get through the pandemic?",
+      "\"return blockchain * future\"<br/>UDC 2020 will be held online with the theme of 'return blockchain * future;'",
+      "What would the answer be if you enter blockchain and future?<br/>As we covoer the upcoming trends regarding blockchain in 2021,<br/>we would like to find the answer to this question with you.",
+      "Please look forward to UDC 2020!"
+    ],
+    "aboutM": [
+      "Since COVID-19 has hii the world,<br/>living with the virus has become a part of our daily lives,",
+      "The everyday things we used to do,<br/>like spending time with family<br/>hanging out with friends and<br/>taking a awalk aroound the neighborhood,<br/>have become something that is no longer \"normal\".",
+      "The changes brought about by COVID-19 are completely transforming our daily lives and perceptions.",
+      "So, what should we worry about <br/>during these challenging times?<br/>What are the concerns of developers<br/>in the blockchain industry?<br/>How can blockchain help us get through the pandemic?",
+      "\"return blockchain * future\"<br/>UDC 2020 will be held online with the theme of 'return blockchain * future;'",
+      "What would the answer be if you enter blockchain and future?<br/>As we covoer the upcoming trends regarding blockchain in 2021,<br/>we would like to find the answer to this question with you.",
+      "Please look forward to UDC 2020!"
+    ],
+    "concepts": [
+      {
+        "title": "A Communication Platformfor Developers",
+        "descriptions": [
+          "Insight from world-class blockchain developers",
+          "New technology and trends that matter to developers",
+          "Numerous events to share and exchange ideas"
+        ]
+      },
+      {
+        "title": "In-depth Exchange of Ideas",
+        "descriptions": [
+          "An event dedicated to developers",
+          "Speakers that provide real and applicable insight",
+          "Diverse formats to allow active exchange of ideas for developers"
+        ]
+      },
+      {
+        "title": "Where We Can Get Together",
+        "descriptions": [
+          "Meet world-class blockchain developers and build a strong network",
+          "A variety of events to engage with other developers"
+        ]
+      }
+    ],
+    "menu": [
+      "Speakers",
+      "Program",
+      "Sign Up"
+    ]
   }
+  
 }
