@@ -2,11 +2,11 @@
   "main": {
     "title": "Sign Up for UDC 2020",
     "description": [
-      "*The 2020 Upbit Developer Conference is a free online event.",
-      "*Sign up to receive email updates and the official UDC 2020 newsletter.",
-      "*All who sign up will be entered into a raffle to win mobile coupons. There could be a restriction on using the coupons if you are not a resident of South Korea.",
-      "*Please note that your phone number and password will be required to confirm or modify your sign-up details.",
-      "*Please contact the UDC 2020 Secretariat if you haven't recieved a confirmatrion e-mail after completing your sign-up.",
+      "The 2020 Upbit Developer Conference is a free online event.",
+      "Sign up to receive email updates and the official UDC 2020 newsletter.",
+      "All who sign up will be entered into a raffle to win mobile coupons. There could be a restriction on using the coupons if you are not a resident of South Korea.",
+      "Please note that your phone number and password will be required to confirm or modify your sign-up details.",
+      "Please contact the UDC 2020 Secretariat if you haven't recieved a confirmatrion e-mail after completing your sign-up.",
       "[UDC Secretariat] E-mail: udc_reg@upbit.com"
     ],
     "subscribe": "Sign-up",
@@ -30,8 +30,8 @@
     "note": {
       "title": "Sign Up for UDC 2020",
       "description": [
-        "*Please note that your phone number and password will be required to confirm or modify your sign-up details",
-        "*Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up",
+        "Please note that your phone number and password will be required to confirm or modify your sign-up details",
+        "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up",
         "[UDC Secretariat] E-mail: udc_reg@upbit.com"
       ]
     },
