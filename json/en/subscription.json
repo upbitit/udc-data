@@ -42,14 +42,18 @@
       "certification": "Verification Code",
       "email": "E-mail",
       "password": "Password",
-      "passwordConfirm": "Password Confirm",
-      "attendPastEvent": "지난 행사 참석 여부",
+      "passwordConfirm": "Confirm Password",
+      "attendPastEvent": "UDC experiecne",
       "occupation": "Occupation",
-      "funnel": "Funnel"
+      "funnel": "How did you hear about UDC 2020"
+    },
+    "placeholder": {
+      "phoneNumber": "without '-'hyphen",
+      "certification": "Enter the verificstion code"
     }
   },
   "step3": {
-    "title": "3. Application details",
+    "title": "Application details",
     "miniTitle": "Sign-Up Information",
     "ticketNumber": "Sign-Up Code",
     "firstName": "First Name",
@@ -57,6 +61,10 @@
     "company": "Affiliation",
     "phoneNumber": "Mobbile Phone Number",
     "email": "E-mail address"
+  },
+  "check": {
+    "title": "Confirm Sign Up Information",
+    "description": "Please enter the mobile phone number and password you used."
   },
   "success": "사전 예약이 완료되었습니다."
 }
