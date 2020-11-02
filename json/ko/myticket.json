@@ -19,10 +19,7 @@
     "verificationPlaceholder": "인증번호 입력",
     "verify": "인증하기"
   },
-  "find_pw_complete": {
-    "title": "등록하신 이메일은\n<span style=\"color:#0367d9\">{{email}}</span> 입니다.",
-    "description": "해당 메일로 재설정된 비밀번호를 전송하였습니다."
-  },
+  "find_pw_complete": "등록하신 이메일은\n<span style=\"color:#0367d9\">{{email}}</span> 입니다.<br/>해당 메일로 재설정된 비밀번호를 전송하였습니다.",
   "payWaiting": "결제 대기",
   "payDone": "결제 완료",
   "totalTicketCount": "(총 {{count}}장)",
