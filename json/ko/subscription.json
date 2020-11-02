@@ -19,7 +19,7 @@
     "checkbox2Text": "이벤트 및 프로모션 알림 메일 수신 <span class=\"optional\">[선택]</span> <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
     "disagree": "동의 하지 않음",
     "next": "다음으로",
-    "portraitAgreement": "※ 해사 중 촬영된 사진과 동영상은 UDC홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
+    "portraitAgreement": "※ 행사 중 촬영된 사진과 동영상은 UDC홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
   },
   "step2": {
     "title": "2. 정보입력",
@@ -30,8 +30,7 @@
       "title": "UDC 2020 사전 예약",
       "description": [
         "예약 내역 확인 및 수정을 위해 작성하신 핸드폰 번호와 비밀번호를 기억해주세요.",
-        "예약 완료 메일 및 메시지를 받지 못하신 경우 UDC 사무국으로 문의하여 주시기 바랍니다.",
-        "[UDC 준비사무국] E-mail: udc_reg@upbit.com  <br class=\"mobile-only\"/>전화: 02-6242-2827"
+        "예약 완료 메일 및 메시지를 받지 못하신 경우 UDC 사무국으로 문의하여 주시기 바랍니다.<br/>[UDC 준비사무국] E-mail: udc_reg@upbit.com  <br class=\"mobile-only\"/>전화: 02-6242-2827"
       ]
     },
     "label": {
