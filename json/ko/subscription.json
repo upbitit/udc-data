@@ -36,26 +36,16 @@
       ]
     },
     "label": {
-      "korName": "이름<br/>(Name)",
-      "company": "소속명<br/>(Affliation)",
-      "phoneNumber": "핸드폰번호<br/>(Phone number)",
+      "korName": "이름",
+      "company": "소속명",
+      "phoneNumber": "핸드폰번호",
       "cerfitication": "인증 번호",
-      "email": "이메일<br/>(E-mail)",
-      "password": "비밀번호<br/>(Password)",
-      "passwordConfirm": "비밀번호 확인<br/>(Password)",
+      "email": "이메일",
+      "password": "비밀번호",
+      "passwordConfirm": "비밀번호 확인",
       "attendPastEvent": "지난 행사 참석 여부",
       "occupation": "직종",
       "funnel": "유입 경로"
-    },
-    "labelEn": {
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email",
-      "phoneNumber": "Phone Number",
-      "password": "Password",
-      "passwordConfirm": "Password Confirm",
-      "occupation": "Occupation",
-      "funnel": "Funnel"
     },
     "placeholder": {
       "korName": "한글만 입력 가능",

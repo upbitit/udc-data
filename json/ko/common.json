@@ -51,6 +51,7 @@
     "confirm": "확인",
     "confirmed": "확인완료",
     "signIn": "확인",
+    "subscribe": "예약하기",
     "selectCountry": "국적 선택",
     "phoneNumber": "휴대폰 번호",
     "phoneNumberPlaceholder": "휴대폰 번호<span class\"pc-only\"> (‘-’ 하이픈 없이 입력하세요)</span>",
