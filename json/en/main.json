@@ -1,85 +1,87 @@
 {
-    "cover": {
-        "registrationButtonText": "UDC 2020 subscription available from 10/28 to 11/20"
+  "cover": {
+    "registrationDescriptionText": "UDC 2020 Sign up availabe<br/>form Novermber 4th (Wed) to November 26th(Thu)",
+    "registrationButtonText": "Sign up for UDC 2020 and Get Your Gifts",
+    "subText": "Solving the Future with Blockchain"
+  },
+  "whatIs": {
+    "title": "<span>What is</span><p>UDC 2020</p>",
+    "decription": "With the global pandemic altering all aspects of our lives<br/>how dows the blockchaing industry move forward in<br/>these unprecedented tiems?<br/>Join us online at UDC 2020 for an in-depth examination<br/>of the future of blockcahin technology.",
+    "description_m": "With the global pandemic<br/>alteral all aspects of our lives,<br/>how does the blokchchaing industry move forward<br/>in these unprecedneted times?<br/>Jin us online at UDC 2020 for an in-depth<br/>examination of the future<br/>of blockchain technology."
+  },
+  "about": {
+    "title": "About UDC 2019",
+    "description": "Check out the previous event and<br/>catch a glimpse of how UDC differs<br/>from other events",
+    "description_m": "Check out the previous event and catch a glimpse of<br/>how UDC differs from other events",
+    "attendees": "Attendees",
+    "attendeesCount": "2500",
+    "companies": "Companies",
+    "companiesCount": "370",
+    "sessions": "Sessions",
+    "sessionsCount": "50",
+    "articles": "Articles",
+    "articlesCount": "610"
+  },
+  "program": {
+    "conference": {
+      "title": "2019 Conference",
+      "desc1": "<div class=\"mobile-only\">Sessions focused on how world-class developers<br/>are using blockchain technology to create projects<br/>and services that solve real world problems.</div><div class=\"pc-only\">Sessions focused on how world-class developers are using<br/>blockchain technology to create projects and services that<br/>solve real world problems.</div>",
+      "desc2": [
+        "<span>Date & Time : </span> <span>Sep. 4 (Wed) 10:00~17:20<span className=\"pc-only\"> /</span> <br class=\"mobile-only\"/>Sep. 5 (Thu) 10:00~17:40</span>",
+        "<span>Venue : </span> <span>Grand Hyatt Incheon</span>"
+      ],
+      "link": "/program"
     },
-    "whatIs": {
-        "title": "<span>What is</span><p>UDC 2020</p>",
-        "description": "The Upbit Developer Conference combines free exchange of<br/>ideas, numerous networking events, <br/>and programs for future blockchain game changers to<br/>present the ultimate developer-centric conference.<br/>We invite you to be a part of UDC 2019, the next big event<br/>for blockchain developers.<br/>Join us next September at Upbit Developer Conference<br/>2019 to celebrate blockchain technology and<br/>developers.",
-        "description_m": "The Upbit Developer Conference combines<br/>free exchange of ideas, numerous networking<br/>events, and programs for future blockchain<br/>game changers to present the ultimate<br/>developer-centric conference.<br/>We invite you to be a part of UDC 2019,<br/>the next big event for blockchain developers.<br/>Join us next September at Upbit Developer<br/>Conference 2019 to celebrate blockchain<br/>technology and developers."
+    "exhibition": {
+      "title": "UDC Exhibition",
+      "desc1": "<div class=\"mobile-only\">UDC 2019’s Exhibition zone features a wide variety<br/>of services that showcase cutting-edge blockchain<br/>technology.</div><div class=\"pc-only\">UDC 2019’s Exhibition zone features a wide variety of services<br/>that showcase cutting-edge blockchain technology.</div>",
+      "desc2": [
+        "Application Period : Jun. 10 (Mon) - Jul. 12 (Fri)",
+        "Exhibition : Sep. 4 (Wed) 10:00 – 5 (Thu) 18:00"
+      ],
+      "link": "/special_event/exhibition"
     },
-    "about": {
-        "title": "About UDC 2019",
-        "description": "Check out the previous event and<br/>catch a glimpse of how UDC differs<br/>from other events",
-        "description_m": "Check out the previous event and catch a glimpse of<br/>how UDC differs from other events",
-        "attendees": "Attendees",
-        "attendeesCount": "2500",
-        "companies": "Companies",
-        "companiesCount": "370",
-        "sessions": "Sessions",
-        "sessionsCount": "50",
-        "articles": "Articles",
-        "articlesCount": "610"
+    "handson": {
+      "title": "UDC Hands-on",
+      "desc1": "<div class=\"mobile-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div><div class=\"pc-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div>",
+      "desc2": [
+        "Registration : Aug. 19 (Mon) – Aug. 28 (Wed)",
+        "Date : Sep. 4 (Wed) / Sep. 5 (Thu)",
+        "Time : 13:30~16:30"
+      ],
+      "link": "/special_event/hands_on",
+      "imgDesc": [
+        "Only registered UDC 2019 attendees are <br class=\"mobile-only\">eligible to <br class=\"pc-only\">participate in the Hands-on program.",
+        "Registration is on a first-come, <br class=\"mobile-only\">first-serve basis."
+      ]
     },
-    "program": {
-        "conference": {
-            "title": "2019 Conference",
-            "desc1": "<div class=\"mobile-only\">Sessions focused on how world-class developers<br/>are using blockchain technology to create projects<br/>and services that solve real world problems.</div><div class=\"pc-only\">Sessions focused on how world-class developers are using<br/>blockchain technology to create projects and services that<br/>solve real world problems.</div>",
-            "desc2": [
-                "<span>Date & Time : </span> <span>Sep. 4 (Wed) 10:00~17:20<span className=\"pc-only\"> /</span> <br class=\"mobile-only\"/>Sep. 5 (Thu) 10:00~17:40</span>",
-                "<span>Venue : </span> <span>Grand Hyatt Incheon</span>"
-            ],
-            "link": "/program"
-        },
-        "exhibition": {
-            "title": "UDC Exhibition",
-            "desc1": "<div class=\"mobile-only\">UDC 2019’s Exhibition zone features a wide variety<br/>of services that showcase cutting-edge blockchain<br/>technology.</div><div class=\"pc-only\">UDC 2019’s Exhibition zone features a wide variety of services<br/>that showcase cutting-edge blockchain technology.</div>",
-            "desc2": [
-                "Application Period : Jun. 10 (Mon) - Jul. 12 (Fri)",
-                "Exhibition : Sep. 4 (Wed) 10:00 – 5 (Thu) 18:00"
-            ],
-            "link": "/special_event/exhibition"
-        },
-        "handson": {
-            "title": "UDC Hands-on",
-            "desc1": "<div class=\"mobile-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div><div class=\"pc-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div>",
-            "desc2": [
-                "Registration : Aug. 19 (Mon) – Aug. 28 (Wed)",
-                "Date : Sep. 4 (Wed) / Sep. 5 (Thu)",
-                "Time : 13:30~16:30"
-            ],
-            "link": "/special_event/hands_on",
-            "imgDesc": [
-                "Only registered UDC 2019 attendees are <br class=\"mobile-only\">eligible to <br class=\"pc-only\">participate in the Hands-on program.",
-                "Registration is on a first-come, <br class=\"mobile-only\">first-serve basis."
-            ]
-        },
-        "hackerton": {
-            "title": "UDC Hackathon <small class=\"bottom\">With Luniverse</small>",
-            "desc1": "<div class=\"mobile-only\">Utilize Luniverse, the best DApp development tool<br/>in the market, to create your own DApp.</div><div class=\"pc-only\">Utilize Luniverse, the best DApp development<br/>tool in the market, to create your own DApp.</div>",
-            "desc2": [
-                "Qualifying : Jul. 1 (Mon) – 21 (Sun)",
-                "Result Announcement : Aug. 2 (Fri)",
-                "Finals Prep : Aug. 21 (Wed), 14:00~17:00",
-                "Finals : Sep. 4 (Wed) 12:00 – Sep. 5 (Thu) 10:00"
-            ],
-            "link": "/special_event/hackaton"
-        },
-        "freeLecture": {
-            "title": "<small>UDC 2019 </small> Blockchain Free Lecture",
-            "desc1": "<div class=\"mobile-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div><div class=\"pc-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div>",
-            "desc2": [
-                "Registration : Jul. 22 (Mon) – 31 (Wed)",
-                "<span>Venue : </span> <span>★Monacospace at Boutique Monaco B1F<br/>(Gangnam Station, Exit 9)</span>",
-                "Date : Aug. 6 (Tue) / Aug. 13 (Tue) / Aug. 20 (Tue)",
-                "Time : 14:00~18:00",
-                "※ The venue has changed. Please refer to the page."
-            ],
-            "link": "/special_event/free_lecture"
-        }
+    "hackerton": {
+      "title": "UDC Hackathon <small class=\"bottom\">With Luniverse</small>",
+      "desc1": "<div class=\"mobile-only\">Utilize Luniverse, the best DApp development tool<br/>in the market, to create your own DApp.</div><div class=\"pc-only\">Utilize Luniverse, the best DApp development<br/>tool in the market, to create your own DApp.</div>",
+      "desc2": [
+        "Qualifying : Jul. 1 (Mon) – 21 (Sun)",
+        "Result Announcement : Aug. 2 (Fri)",
+        "Finals Prep : Aug. 21 (Wed), 14:00~17:00",
+        "Finals : Sep. 4 (Wed) 12:00 – Sep. 5 (Thu) 10:00"
+      ],
+      "link": "/special_event/hackaton"
     },
-    "speaker": {
-        "opened": true,
-        "viewMore": "View More Speakers",
-        "notReady": "Not ready"
+    "freeLecture": {
+      "title": "<small>UDC 2019 </small> Blockchain Free Lecture",
+      "desc1": "<div class=\"mobile-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div><div class=\"pc-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div>",
+      "desc2": [
+        "Registration : Jul. 22 (Mon) – 31 (Wed)",
+        "<span>Venue : </span> <span>★Monacospace at Boutique Monaco B1F<br/>(Gangnam Station, Exit 9)</span>",
+        "Date : Aug. 6 (Tue) / Aug. 13 (Tue) / Aug. 20 (Tue)",
+        "Time : 14:00~18:00",
+        "※ The venue has changed. Please refer to the page."
+      ],
+      "link": "/special_event/free_lecture"
     }
+  },
+  "speaker": {
+    "opened": true,
+    "viewMore": "View More Speakers",
+    "notReady": "Not ready"
+  }
 }
