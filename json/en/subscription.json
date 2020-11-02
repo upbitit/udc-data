@@ -40,7 +40,7 @@
       "lastName": "Last Name",
       "company": "Affiliation",
       "phoneNumber": "Phone Number",
-      "certification": "Certification",
+      "certification": "Verification Code",
       "email": "E-mail",
       "password": "Password",
       "passwordConfirm": "Password Confirm",
