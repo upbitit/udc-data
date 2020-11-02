@@ -38,7 +38,7 @@
       "korName": "이름",
       "company": "소속명",
       "phoneNumber": "핸드폰번호",
-      "cerfitication": "인증 번호",
+      "certification": "인증 번호",
       "email": "이메일",
       "password": "비밀번호",
       "passwordConfirm": "비밀번호 확인",
