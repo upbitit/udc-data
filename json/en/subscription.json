@@ -34,6 +34,19 @@
         "*Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up",
         "[UDC Secretariat] E-mail: udc_reg@upbit.com"
       ]
+    },
+    "label": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "company": "Affiliation",
+      "phoneNumber": "Phoen Number",
+      "cerfitication": "Certification",
+      "email": "E-mail",
+      "password": "Password",
+      "passwordConfirm": "Password Confirm",
+      "attendPastEvent": "지난 행사 참석 여부",
+      "occupation": "Occupation",
+      "funnel": "Funnel"
     }
   },
   "step3": {
