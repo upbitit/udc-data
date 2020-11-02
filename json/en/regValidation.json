@@ -11,7 +11,7 @@
     "checkPhoneNumberDupFirst": "Check phone number duplication first.",
     "phoneNumberVerificationRequired": "Phone Number Verification Required.",
     "passwordNotMatched": "The password does not match.",
-    "invalidPasswordLength": "Passwords must be at least 10 characters.",
+    "invalidPasswordLength": "Passwords must be between 8-16 characters.",
     "invalidPasswordCombination": "Passwords must be a combination of numbers, uppers, lowers, and special characters.",
     "invalidPasswordEqualEmail": "Passwords must be diffrent from email.",
     "invalidPasswordContinuity": "Password must not be string of contiguous letters.",

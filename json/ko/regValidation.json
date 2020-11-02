@@ -12,7 +12,7 @@
     "checkPhoneNumberDupFirst": "전화번호 중복검사를 먼저 해주시기 바랍니다.",
     "phoneNumberVerificationRequired": "휴대폰 번호 인증이 필요합니다.",
     "passwordNotMatched": "비밀번호가 일치하지 않습니다.",
-    "invalidPasswordLength": "10자 이상의 비밀번호를 입력하여 주십시오.",
+    "invalidPasswordLength": "8-16자 사이의 비밀번호를 입력하여 주십시오.",
     "invalidPasswordCombination": "영어 대문자, 소문자, 숫자, 특수문자 중 3종류 이상의 비밀번호를 입력하여 주십시오.",
     "invalidPasswordEqualEmail": "비밀번호를 이메일과 다르게 입력하여 주십시오.",
     "invalidPasswordContinuity": "비밀번호에 연속되는 숫자 또는 문자열은 사용할 수 없습니다.",
