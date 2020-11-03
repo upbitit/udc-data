@@ -33,7 +33,7 @@
     },
     "firstName": "First Name",
     "lastName": "Last Name",
-    "korName": "국문 성명",
+    "korName": "이름",
     "korNamePlaceholder": "국문 성명(예시: 홍길동)",
     "name": "이름",
     "password": "비밀번호",
