@@ -50,7 +50,8 @@
     },
     "placeholder": {
       "phoneNumber": "without '-'hyphen",
-      "certification": "Enter the verification code"
+      "certification": "Enter the verification code",
+      "password": "8-16 characters using a combination of letters and numbers"
     }
   },
   "step3": {
