@@ -16,5 +16,6 @@
     "invalidPasswordEqualEmail": "Passwords must be diffrent from email.",
     "invalidPasswordContinuity": "Password must not be string of contiguous letters.",
     "invalidMinLength": "Minimum length is {{length}} characters.",
-    "invalidMaxLength": "Maximum length is {{length}} characters."
+    "invalidMaxLength": "Maximum length is {{length}} characters.",
+    "additionalChoiceNeeded": "Please check the items above"
 }
