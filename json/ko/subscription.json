@@ -16,7 +16,8 @@
     "totalAgreeCheckboxText": "이용약관, 개인정보 수집 및 이용에 모두 동의합니다.",
     "agreePopUpText": "개인정보 수집 및 이용에 대한 안내약관(필수)에 동의해주셔야 합니다.",
     "checkbox1Text": "개인정보 수집 및 이용에 대한 안내 <span class=\"required\">[필수]</span>",
-    "checkbox2Text": "이벤트 및 프로모션 알림 메일 수신 <span class=\"optional\">[선택]</span> <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+    "checkbox2Text": "이벤트 및 프로모션 알림 메일 수신 <span class=\"optional\">[선택]</span><br/><span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+    "checkbox3Text": "연령(만 14세 이상) 확인<br/>해당 서비스는 만 14세 이상만 사용할 수 있습니다. 만 14세 이상에 해당되시면 체크해주세요.",
     "disagree": "동의 하지 않음",
     "next": "다음으로",
     "portraitAgreement": "※ 행사 중 촬영된 사진과 동영상은 UDC홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
