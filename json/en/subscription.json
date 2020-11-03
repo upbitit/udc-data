@@ -14,10 +14,10 @@
   "step1": {
     "title": "1. Terms and Conditions",
     "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2020 Privacy Policy and to receive promotional material via email.",
-    "agreePopUpText": "개인정보 수집 및 이용에 대한 안내약관(필수)에 동의해주셔야 합니다.",
+    "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
     "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2020.</span>",
-    "checkbox3Text": "연령(만 14세 이상) 확인<br/><span class=\"tip\">* 해당 서비스는 만 14세 이상만 사용할 수 있습니다. 만 14세 이상에 해당되시면 체크해주세요.</span>",
+    "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
     "disagree": "Disagree",
     "next": "Next",
     "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services."
@@ -25,8 +25,8 @@
   "step2": {
     "title": "2. Attendee Information",
     "subscriptorInfo": "Detailed Information",
-    "alreadyRegisteredPhoneNumber": "해당 핸드폰 번호는 이미 등록되어 있습니다.",
-    "alreadyRegisteredPhoneNumber_m": "해당 핸드폰 번호는<br>이미 등록되어 있습니다.",
+    "alreadyRegisteredPhoneNumber": "This mobile phone number is already registered.",
+    "alreadyRegisteredPhoneNumber_m": "Thus mobile phone number is already registered.",
     "verificationComplete": "Verification has beenv completed.",
     "note": {
       "title": "Sign Up for UDC 2020",
@@ -67,5 +67,5 @@
     "title": "Confirm Sign Up Information",
     "description": "Please enter the mobile phone number and password you used."
   },
-  "success": "사전 예약이 완료되었습니다."
+  "success": "Your registration has been completed."
 }
