@@ -19,10 +19,7 @@
     "send": "Send",
     "verificationPlaceholder": "Verification Code"
   },
-  "find_pw_complete": {
-    "title": "We send your password to\n<span style=\"color:#0367d9\">{{email}}</span>",
-    "description": "Please check your email, and sign in again."
-  },
+  "find_pw_complete": "Your temporary password has been successfully sent to your email (<span style=\"color:#0367d9\">{{email}}</span>).<br/>Please try again with your temporary password.",
   "payWaiting": "Checkout",
   "payDone": "Completed",
   "totalTicketCount": "({{count}} Tickets)",

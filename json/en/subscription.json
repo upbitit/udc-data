@@ -2,11 +2,11 @@
   "main": {
     "title": "Sign Up for UDC 2020",
     "description": [
-      "The 2020 Upbit Developer Conference is a free online event.",
+      "Upbit Developer Conference 2020 is a free online event.",
       "Sign up to receive email updates and the official UDC 2020 newsletter.",
       "All who sign up will be entered into a raffle to win mobile coupons. There could be a restriction on using the coupons if you are not a resident of South Korea.",
       "Please note that your phone number and password will be required to confirm or modify your sign-up details.",
-      "Please contact the UDC 2020 Secretariat if you haven't recieved a confirmatrion e-mail after completing your sign-up.<br/>[UDC Secretariat] E-mail: udc_reg@upbit.com"
+      "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
     ],
     "subscribe": "Sign-up",
     "check": "Log-in"
@@ -44,7 +44,7 @@
       "email": "E-mail",
       "password": "Password",
       "passwordConfirm": "Confirm Password",
-      "attendPastEvent": "UDC experiecne",
+      "attendPastEvent": "UDC experience",
       "occupation": "Occupation",
       "funnel": "How did you hear about UDC 2020"
     },
@@ -60,9 +60,11 @@
     "ticketNumber": "Sign-Up Code",
     "firstName": "First Name",
     "lastName": "Last Name",
+    "name": "Name",
     "company": "Affiliation",
     "phoneNumber": "Mobbile Phone Number",
-    "email": "E-mail address"
+    "email": "E-mail address",
+    "description": "Modifying participant information and cancellation<br/>for sign-up can be requested by e-mail to the UDC 2020Secretariat.<br/>Please contact the UDC 2020 Secretariat if you haven't received an e-mail/message about the completion of your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
   },
   "check": {
     "title": "Confirm Sign Up Information",
