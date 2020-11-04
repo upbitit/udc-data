@@ -15,11 +15,12 @@
     "title": "1. Terms and Conditions",
     "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2020 Privacy Policy and to receive promotional material via email.",
     "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
+    "over14Text": "본 서비스는 만 14세 이상임을 인증하셔야 사용하실 수 있습니다.",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
     "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2020.</span>",
     "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
     "disagree": "Disagree",
-    "next": "Next",
+    "next": "Agree",
     "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services."
   },
   "step2": {

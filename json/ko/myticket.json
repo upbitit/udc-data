@@ -13,7 +13,7 @@
   },
   "find_pw": {
     "title": "비밀번호 찾기",
-    "description": "신청자 성명과 휴대폰 번호를 입력해주세요.",
+    "description": "핸드폰 번호 인증절차를 통해 비밀번호를 확인하실 수 있습니다.",
     "namePlaceholder": "이름",
     "phonePlaceholder": "휴대폰 번호",
     "verificationPlaceholder": "인증번호 입력",
