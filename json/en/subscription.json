@@ -28,8 +28,8 @@
     "subscriptorInfo": "Detailed Information",
     "alreadyRegisteredPhoneNumber": "This mobile phone number is already registered.",
     "alreadyRegisteredPhoneNumber_m": "Thus mobile phone number is already registered.",
-    "verificationComplete": "Verification has beenv completed.",
-    "checkDupSuccess": "",
+    "verificationComplete": "Verification has been completed.",
+    "checkDupSuccess": "This number is available to use. Please continue.",
     "note": {
       "title": "Sign Up for UDC 2020",
       "description": [
