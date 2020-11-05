@@ -15,7 +15,7 @@
     "title": "1. Terms and Conditions",
     "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2020 Privacy Policy and to receive promotional material via email.",
     "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
-    "over14Text": "본 서비스는 만 14세 이상임을 인증하셔야 사용하실 수 있습니다.",
+    "over14Text": "Age verification required. You must be over the age of 14 years to use this service.",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
     "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2020.</span>",
     "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
@@ -29,6 +29,7 @@
     "alreadyRegisteredPhoneNumber": "This mobile phone number is already registered.",
     "alreadyRegisteredPhoneNumber_m": "Thus mobile phone number is already registered.",
     "verificationComplete": "Verification has beenv completed.",
+    "checkDupSuccess": "",
     "note": {
       "title": "Sign Up for UDC 2020",
       "description": [
@@ -71,5 +72,6 @@
     "title": "Confirm Sign Up Information",
     "description": "Please enter the mobile phone number and password you used."
   },
-  "success": "Your registration has been completed."
+  "success": "Your registration has been completed.",
+  "error": "There was an error with your registration. Please try registering again."
 }
