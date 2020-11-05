@@ -63,7 +63,7 @@
     "company": "소속명",
     "phoneNumber": "핸드폰번호",
     "email": "이메일",
-    "description": "신청 취소 및 기타 문의사항은<br/>UDC준비사무국으로 연락 주시기 바랍니다.<br/>(udc_reg@upbit.com)"
+    "description": "예약자 정보 수정, 신청 취소 및 기타 문의사항은<br/>UDC준비사무국으로 연락 주시기 바랍니다.<br/>(udc_reg@upbit.com)"
   },
   "check": {
     "title": "예약 내역 조회",

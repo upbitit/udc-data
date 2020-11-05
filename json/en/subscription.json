@@ -27,9 +27,9 @@
     "title": "2. Attendee Information",
     "subscriptorInfo": "Detailed Information",
     "alreadyRegisteredPhoneNumber": "This mobile phone number is already registered.",
-    "alreadyRegisteredPhoneNumber_m": "Thus mobile phone number is already registered.",
+    "alreadyRegisteredPhoneNumber_m": "This mobile phone number is already registered.",
     "verificationComplete": "Verification has been completed.",
-    "checkDupSuccess": "This number is available to use. Please continue.",
+    "checkDupSuccess": "This phone number is available to use. Please continue.",
     "note": {
       "title": "Sign Up for UDC 2020",
       "description": [
@@ -72,6 +72,6 @@
     "title": "Confirm Sign Up Information",
     "description": "Please enter the mobile phone number and password you used."
   },
-  "success": "Your registration has been completed.",
+  "success": "Your Sign-up has been completed.",
   "error": "There was an error with your registration. Please try registering again."
 }
