@@ -17,7 +17,7 @@
     "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
     "over14Text": "Age verification required. You must be over the age of 14 years to use this service.",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
-    "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2020.</span>",
+    "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive promotional information about UDC 2020.</span>",
     "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
     "disagree": "Disagree",
     "next": "Agree",
