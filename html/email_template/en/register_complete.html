@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Upbit Developer Conference 2020</title>
+<style type="text/css">
+  /* devanagari */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDIxapCSOBg7S-QT7p4GM-aGW-rOq7s.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDIxapCSOBg7S-QT7p4JM-aGW-rOq7s.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDIxapCSOBg7S-QT7p4HM-aGW-rO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Rajdhani Medium'), local('Rajdhani-Medium'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pb0EPOqeefkkbIxyyg.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Rajdhani Medium'), local('Rajdhani-Medium'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pb0EPOleefkkbIxyyg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Rajdhani Medium'), local('Rajdhani-Medium'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pb0EPOreefkkbIx.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Rajdhani SemiBold'), local('Rajdhani-SemiBold'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pbYF_OqeefkkbIxyyg.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Rajdhani SemiBold'), local('Rajdhani-SemiBold'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pbYF_OleefkkbIxyyg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Rajdhani SemiBold'), local('Rajdhani-SemiBold'), url(https://fonts.gstatic.com/s/rajdhani/v8/LDI2apCSOBg7S-QT7pbYF_OreefkkbIx.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWJ0bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+      U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFUZ0bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWZ0bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFVp0bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWp0bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFW50bf8pkAp6a.woff2)
+        format("woff2");
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+      U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+      url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2)
+        format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+      U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+      U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: "NanumSquare";
+    font-weight: 300;
+    src: local("NanumSquare Light"),
+      url(https://udc-data.azy.kr/css/fonts/NanumSquare/NanumSquareL.woff);
+  }
+  @font-face {
+    font-family: "NanumSquare";
+    font-weight: 400;
+    src: local("NanumSquare Regular"),
+      url(https://udc-data.azy.kr/css/fonts/NanumSquare/NanumSquareR.woff);
+  }
+  @font-face {
+    font-family: "NanumSquare";
+    font-weight: 700;
+    src: local("NanumSquare Bold"),
+      url(https://udc-data.azy.kr/css/fonts/NanumSquare/NanumSquareB.woff);
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; border:0; background:#fff; color:#2b2b2b; font:normal 12px 'Rajdhani','Noto Sans KR','AppleSDGothicNeo-Regular','Malgun Gothic','Dotum',sans-serif; ">
+
+<div style="margin:0 auto; width:734px;position:relative;font-family: 'Rajdhani';background-color: #dbe3f0 !important;display: block !important;color: #222222 !important;;overflow:hidden;padding: 18px;font-size: 16px;">
+
+
+	<!-- Content Start -->
+	<div style="margin: 0 auto;background-color: white !important;padding: 50px;">
+		<h1 style="margin:0;font-size:39px;color: #222222;">Sign Up <span style="color:#003384">Confirmation</span></h1>
+    <p style="margin-top:40px;line-height:28px;font-size:18px;font-weight:500;color: #666666;">
+      Dear<br />
+      Welcome to the Upbit Developer Conference 2020.<br />
+      Your UDC 2020 sign-up process has been completed.<br />
+      Please subscribe to the UDC YouTube Channel and turn on your notifications.<br />
+      The online conference will be broadcast from Nov. 30th (Mon) to Dec. 4th (Fri).<br />
+    </p>
+		<div style="margin-top:20px;">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #e3e5ec; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; table-layout: fixed; vertical-align: top;">
+        <tbody>
+          <tr>
+            <td rowspan="6" style="background-color: #f2f5fa; text-align: center; -moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; border-right: 0;color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px;padding-top: 11px; vertical-align: middle; width: 166px; word-wrap: break-word;">Detailed<br />Information</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: 200px; word-wrap: break-word;text-align: right;">Sign-Up Code</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{ticketNumber}</td>
+          </tr>
+          <tr>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: 200px; word-wrap: break-word;text-align: right;">First Name</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{firstName}</td>
+          </tr>
+          <tr>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: 200px; word-wrap: break-word;text-align: right;">Last Name</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{lastName}</td>
+          </tr>
+          <tr>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: 200px; word-wrap: break-word;text-align: right;">Affiliation</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{company}</td>
+          </tr>
+          <tr>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top;width: 200px; word-wrap: break-word;text-align: right;">Mobile Phone Number</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{phoneNumber}</td>
+          </tr>
+          <tr>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0;border-left: 0; color: #666666; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: 200px; word-wrap: break-word;text-align: right;">E-mail address</td>
+            <td style="-moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; border: 1px solid #dbe3f0; border-top: 0; color: #0367d9; font-family: 'Rajdhani', 'roboto', 'Noto Sans KR', 'AppleSDGothicNeo-Regular', 'Malgun Gothic', Arial, 'sans-serif'; font-size: 18px; font-weight: 400; line-height: 28px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; padding-bottom: 10px; padding-left: 0px; padding-right: 20px; padding-top: 11px; vertical-align: top; width: auto; word-wrap: break-word;text-align: right;">{email}</td>
+          </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+
+
+	<ul style="color:#666666;line-height:24px;margin:20px 0 30px;padding:0;list-style: none;text-decoration: none;font-size: 18px;">
+		<li style="margin-left:10px;margin-top:0px; text-indent: -10px;">· Please note that your phone number and password will be required to confirm your sign-up details.</li>
+		<li style="margin-left:10px;margin-top:10px; text-indent: -10px;">· If the mobile phone number is registered to a different name, you may not be eligible to receive prizes.</li>
+		<li style="margin-left:10px;margin-top:10px; text-indent: -10px;">· You can confirm your sign-up details on our website by logging in with your phone number and password.</li>
+		<li style="margin-left:10px;margin-top:10px; text-indent: -10px;">· Modifying participant information or sign-up cancellation can be requested via e-mail to the UDC 2020 Secretariat.</li>
+    <li style="margin-top:40px;">[UDC 2020 Secretariat]</li>
+    <li style="margin-left:10px;margin-top:10px; text-indent: -10px;">· <span style="color:#0367d9;text-decoration:none;">udc_reg@upbit.com</span> / 02-3453-2937</li>
+	</ul>
+	<a style="width:100%;padding:21px 0;display:block;font-size:20px;line-height:1;background-color:#10346e;color:white;text-align: center;cursor: pointer;text-decoration: none" href="https://udc.upbit.com/">UDC 2020 Online Website</a>
+  <a style="width:100%;margin-top:8px;padding:21px 0;display:block;font-size:20px;line-height:1;background-color:#c3cfdf;color:#10346e;text-align: center;cursor: pointer;text-decoration: none" href="https://www.youtube.com/udc2020">UDC 2020 Youtube Channel</a>
+	
+  <!-- Content End -->
+</div>
+
+
+</body>
+</html>

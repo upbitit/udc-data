@@ -1,0 +1,77 @@
+{
+  "main": {
+    "title": "Sign Up for UDC 2020",
+    "description": [
+      "Upbit Developer Conference 2020 is a free online event.",
+      "Sign up to receive email updates and the official UDC 2020 newsletter.",
+      "All who sign up will be entered into a raffle to win mobile coupons. There could be a restriction on using the coupons if you are not a resident of South Korea.",
+      "Please note that your phone number and password will be required to confirm or modify your sign-up details.",
+      "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
+    ],
+    "subscribe": "Sign-up",
+    "check": "Log-in"
+  },
+  "step1": {
+    "title": "1. Terms and Conditions",
+    "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2020 Privacy Policy and to receive promotional material via email.",
+    "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
+    "over14Text": "Age verification required. You must be over the age of 14 years to use this service.",
+    "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
+    "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive promotional information about UDC 2020.</span>",
+    "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
+    "disagree": "Disagree",
+    "next": "Agree",
+    "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services."
+  },
+  "step2": {
+    "title": "2. Attendee Information",
+    "subscriptorInfo": "Detailed Information",
+    "alreadyRegisteredPhoneNumber": "This mobile phone number is already registered.",
+    "alreadyRegisteredPhoneNumber_m": "This mobile phone number is already registered.",
+    "verificationComplete": "Verification has been completed.",
+    "checkDupSuccess": "This phone number is available to use. Please continue.",
+    "note": {
+      "title": "Sign Up for UDC 2020",
+      "description": [
+        "Please note that your phone number and password will be required to confirm or modify your sign-up details",
+        "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] E-mail: udc_reg@upbit.com"
+      ]
+    },
+    "label": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "company": "Affiliation",
+      "phoneNumber": "Phone Number",
+      "certification": "Verification Code",
+      "email": "E-mail",
+      "password": "Password",
+      "passwordConfirm": "Confirm Password",
+      "attendPastEvent": "UDC experience",
+      "occupation": "Occupation",
+      "funnel": "How did you hear about UDC 2020"
+    },
+    "placeholder": {
+      "phoneNumber": "without '-'hyphen",
+      "certification": "Enter the verification code",
+      "password": "8-16 characters using a combination of letters and numbers"
+    }
+  },
+  "step3": {
+    "title": "Application details",
+    "miniTitle": "Sign-Up Information",
+    "ticketNumber": "Sign-Up Code",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "name": "Name",
+    "company": "Affiliation",
+    "phoneNumber": "Mobbile Phone Number",
+    "email": "E-mail address",
+    "description": "Modifying participant information and cancellation<br/>for sign-up can be requested by e-mail to the UDC 2020 Secretariat.<br/>Please contact the UDC 2020 Secretariat if you haven't received an e-mail/message about the completion of your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
+  },
+  "check": {
+    "title": "Confirm Sign Up Information",
+    "description": "Please enter the mobile phone number and password you used."
+  },
+  "success": "Your Sign-up has been completed.",
+  "error": "There was an error with your registration. Please try registering again."
+}
