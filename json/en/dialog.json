@@ -1,6 +1,6 @@
 {
   "loginFailed": {
-    "title": "Failed to find registered ticket information.",
+    "title": "No sign-up information found.",
     "message": "Please check your phone number and password.<br/><p class=\"note\">*If you enter the password incorrectly over 5 times, Log in will be blocked.</p>",
     "link": {
       "title": "Forgot your Password?",
@@ -8,12 +8,11 @@
     },
     "buttons": [
       {
-        "title": "Home",
-        "path": "/"
+        "title": "Confirm"
       },
       {
-        "title": "Go to Buy Ticket",
-        "path": "/registration"
+        "title": "Go to Sign Up",
+        "path": "/subcription"
       }
     ]
   },

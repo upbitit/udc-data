@@ -8,5 +8,7 @@
   "newsAuthor": "Media",
   "goList": "List",
   "openLink": "Link to article",
-  "openAttachment": "Attachment "
+  "openAttachment": "Attachment ",
+  "morePicturesLink": "https://www.flickr.com/photos/184193566@N02/albums",
+  "morePictures": "Click <span><a href=\"https://www.flickr.com/photos/184193566@N02/albums\">here</a></span> to see more pictures."
 }

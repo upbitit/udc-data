@@ -1,8 +1,190 @@
 {
+  "feedbacks2019": [
+    {
+      "title" : "“Great, Exciting Conference! You’ll Get High-Quality Insights from UDC.”",
+      "title_m" : "“Great, Exciting Conference! You’ll Get High-Quality Insights from UDC.”",
+      "name" : "Leemon Baird",
+      "company" : "(Hedera Hashgraph Co-Founder & Chief Scientist)",
+      "description" : "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "description_m": "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_01.png"
+    },
+    {
+      "title" : "“Best Organized Conference Where Everyone can Learn from Each Other”",
+      "title_m" : "“Best Organized Conference Where Everyone can Learn from Each Other”",
+      "name" : "Houman Haddad",
+      "company" : "(United Nations World Food Programme Head of Emerging Technologies)",
+      "description" : "“For one thing, it’s the best organized conference I’ve ever been to by far. The other thing is that it has non-commercial quality. Everyone who has come here is to explain what they’re doing, what they’re excited about, and more importantly to learn from each other. It’s a great feeling to participate in this conference.”",
+      "description_m": "“For one thing, it’s the best organized conference I’ve ever been to by far. The other thing is that it has non-commercial quality. Everyone who has come here is to explain what they’re doing, what they’re excited about, and more importantly to learn from each other. It’s a great feeling to participate in this conference.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_02.png"
+    },
+    {
+      "title" : "“A Different Level of Sophistication”",
+      "title_m" : "“A Different Level of Sophistication”",
+      "name" : "Kevin Abosch",
+      "company" : "(Studio Kevin Abosch Artist)",
+      "description" : "“UDC is calm and collected with sophisticated audience. It has a different level of sophistication compared to other events. Also, I was taken care of really nicely, was able to engage with other presenters. The organizers paid attention to details and that was really helpful.”",
+      "description_m": "“UDC is calm and collected with sophisticated audience. It has a different level of sophistication compared to other events. Also, I was taken care of really nicely, was able to engage with other presenters. The organizers paid attention to details and that was really helpful.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_03.png"
+    },
+    {
+      "title" : "“Serious, Professional, and Cool “",
+      "title_m" : "“Serious, Professional, and Cool “",
+      "name" : "Yan Zhu",
+      "company" : "(Brave Software Chief Information Security Officer)",
+      "description" : "“The people at UDC are more serious and professional. Also, the contents and layout of the event was impressive. It’s much more well-organized with a lot of places to take photos. Very cool!”",
+      "description_m": "“The people at UDC are more serious and professional. Also, the contents and layout of the event was impressive. It’s much more well-organized with a lot of places to take photos. Very cool!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_04.png"
+    },
+    {
+      "title" : "“Such a Privilege to be at UDC, a Fascinating Event with Great Production!”",
+      "title_m" : "“Such a Privilege to be at UDC, a Fascinating Event with Great Production!”",
+      "name" : "Timothy Li",
+      "company" : "(Theta Labs Head of Platform)",
+      "description" : "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "description_m": "“It’s been great! I’ve enjoyed talking with people and seeing various ideas from the exhibition. There’s a lot going on. The questions that audience ask are very interesting and insightful. Such an exciting place to be!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_05.png"
+    },
+    {
+      "title" : "“What is Special About UDC is Spirit of Developers.”",
+      "title_m" : "“What is Special About UDC is Spirit of Developers.”",
+      "name" : "Jan Junge",
+      "company" : "(Daimler Mobility Blockchain Developer & Product Owner)",
+      "description" : "“What is special about UDC is the spirit of the developers, who are open to share their experience and best practices. Come join here to take advantage of what it has to offer! If you are a speaker, don’t be afraid; just do it! People will love it. You will love it. It’s a great experience.”",
+      "description_m": "“What is special about UDC is the spirit of the developers, who are open to share their experience and best practices. Come join here to take advantage of what it has to offer! If you are a speaker, don’t be afraid; just do it! People will love it. You will love it. It’s a great experience.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_06.png"
+    },
+    {
+      "title" : "“Awesome, Vibrant and Energetic” ",
+      "title_m" : "“Awesome, Vibrant and Energetic” ",
+      "name" : "Alexander Höptner",
+      "company" : "(Boerse Stuttgart CEO)",
+      "description" : "“It’s an awesome experience. UDC is vibrant and full of energy. It’s all about experience; there is no probing or testing. People here know what they are talking about, and really into the topic. What an experience!”",
+      "description_m": "“It’s an awesome experience. UDC is vibrant and full of energy. It’s all about experience; there is no probing or testing. People here know what they are talking about, and really into the topic. What an experience!”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_07.png"
+    },
+    {
+      "title" : "“UDC Connects All Those Thinking About the Future of Blockchain.”",
+      "title_m" : "“UDC Connects All Those Thinking About the Future of Blockchain.”",
+      "name" : "Richard Choi",
+      "company" : "(Carry Protocol Co-Founder & Co-CEO)",
+      "description" : "“It felt like everyone at UDC were having meaningful conversations on real issues facing blockchain technology, rather than just talking about their own achievements. I also had the opportunity to interact with other speakers from various fields, like Kevin Abosch, and it was truly inspiring.”",
+      "description_m": "“It felt like everyone at UDC were having meaningful conversations on real issues facing blockchain technology, rather than just talking about their own achievements. I also had the opportunity to interact with other speakers from various fields, like Kevin Abosch, and it was truly inspiring.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_08.png"
+    },
+    {
+      "title" : "“Healthy Discussions on How Blockchain will be Utilized in the Future.”",
+      "title_m" : "“Healthy Discussions on How Blockchain will be Utilized in the Future.”",
+      "name" : "Jason Han",
+      "company" : "(CEO of Ground X)",
+      "description" : "“There were definitely more developers and a wider range of programs compared to UDC 2018. This year’s event focused on real cases and not just on the technology, with great discussions on how the technology should be applied.”",
+      "description_m": "“There were definitely more developers and a wider range of programs compared to UDC 2018. This year’s event focused on real cases and not just on the technology, with great discussions on how the technology should be applied.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_09.png"
+    },
+    {
+      "title" : "“A Conference that Offers Both Motivation and Insight”",
+      "title_m" : "“A Conference that Offers Both Motivation and Insight”",
+      "name" : "Yong-Ku Lee",
+      "company" : "(Riiid CTO)",
+      "description" : "“What makes UDC special is that it features not just practical discussions, but philosophical ones as well, such as the future of the blockchain technology and where it should be headed. I’m originally an AI developer, so the networking events were a great way for me to gain meaningful insight from blockchain experts.”",
+      "description_m": "“What makes UDC special is that it features not just practical discussions, but philosophical ones as well, such as the future of the blockchain technology and where it should be headed. I’m originally an AI developer, so the networking events were a great way for me to gain meaningful insight from blockchain experts.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_10.png"
+    },
+    {
+      "title" : "“Gaining First-Hand Experience of Various Blockchain Services was Quite Instructive .”",
+      "title_m" : "“Gaining First-Hand Experience of Various Blockchain Services was Quite Instructive .”",
+      "name" : "Woo-Ram Son",
+      "company" : "(Mossland CEO)",
+      "description" : "“Among all the UDC 2019 programs, I’ve really enjoyed the exhibition zones and the hands-on sessions. It was great to gain first-hand experience of new blockchain services developed by different companies.”",
+      "description_m": "“Among all the UDC 2019 programs, I’ve really enjoyed the exhibition zones and the hands-on sessions. It was great to gain first-hand experience of new blockchain services developed by different companies.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_11.png"
+    },
+    {
+      "title" : "“Well-Structured, Professional and Meaningful”",
+      "title_m" : "“Well-Structured, Professional and Meaningful”",
+      "name" : "Sang-Sik Joo",
+      "company" : "(Head of SM Entertainment CT-AI Labs)",
+      "description" : "“UDC was well-structured and professional. I’m happy to see this conference establish itself as a major event for blockchain developers. I was honored to be part of this meaningful event.”",
+      "description_m": "“UDC was well-structured and professional. I’m happy to see this conference establish itself as a major event for blockchain developers. I was honored to be part of this meaningful event.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_12.png"
+    },
+    {
+      "title" : "“UDC is Always Fun!”",
+      "title_m" : "“UDC is Always Fun!”",
+      "name" : "Hye-Young Park",
+      "company" : "(Amazon Web Services Senior Solutions Architect)",
+      "description" : "“This year’s hands-on session was joined by many developers who are tackling practical issues related to blockchain technology. Much like last year, it was a fun and exciting experience for industry professionals like me.”",
+      "description_m": "“This year’s hands-on session was joined by many developers who are tackling practical issues related to blockchain technology. Much like last year, it was a fun and exciting experience for industry professionals like me.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_13.png"
+    },
+    {
+      "title" : "“Hands-on is a Great Session for Non-Developers As Well.”",
+      "title_m" : "“Hands-on is a Great Session for Non-Developers As Well.”",
+      "name" : "Young Yoon",
+      "company" : "(FirmaChain CEO)",
+      "description" : "“Even though I am not a developer, I had no problem following the instructor.”",
+      "description_m": "“Even though I am not a developer, I had no problem following the instructor.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_14.png"
+    },
+    {
+      "title" : "“UDC is a Conference You Want to Attend Every Year.”",
+      "title_m" : "“UDC is a Conference You Want to Attend Every Year.”",
+      "name" : "Intime",
+      "company" : "(Hackathon Winner Team)",
+      "description" : "“Everyone knows about UDC and I’ve been here both years. I’m already excited for UDC 2020 because they do a great job of choosing pertinent themes.”",
+      "description_m": "“Everyone knows about UDC and I’ve been here both years. I’m already excited for UDC 2020 because they do a great job of choosing pertinent themes.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_15.png"
+    },
+    {
+      "title" : "“UDC is a Great Event for Both Developers and Non-Developers”",
+      "title_m" : "“UDC is a Great Event for Both Developers and Non-Developers”",
+      "name" : "Jae-Yoon Shin",
+      "company" : "(Sogang University Student major in American Culture)",
+      "description" : "“Blockchain isn’t an easy subject to understand, but they did a great job of explaining how the technology will impact end-users like me. Even though there aren’t a lot of mainstream services, it’s obvious that blockchain’s potential is immense.”",
+      "description_m": "“Blockchain isn’t an easy subject to understand, but they did a great job of explaining how the technology will impact end-users like me. Even though there aren’t a lot of mainstream services, it’s obvious that blockchain’s potential is immense.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_16.png"
+    },
+    { 
+      "title" : "“It was an Eye-Opening Experience!”",
+      "title_m" : "“It was an Eye-Opening Experience!”",
+      "name" : "Sang-Min Lee ",
+      "company" : "(Kangwon University Student)",
+      "description" : "“UDC completely changed my preconceived notions regarding blockchain. I thought it was a finance-related technology, but I learned that it’s also being widely adopted in industries such as consumer goods and the energy.”",
+      "description_m": "“UDC completely changed my preconceived notions regarding blockchain. I thought it was a finance-related technology, but I learned that it’s also being widely adopted in industries such as consumer goods and the energy.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_17.png"
+    },
+    {
+      "title" : "“I’m Excited for Future UDCs”",
+      "title_m" : "“I’m Excited for Future UDCs”",
+      "name" : "Milla Choi",
+      "company" : "(Origin Protocol Korea Branch Manager)",
+      "description" : "“I’m looking forward to how UDC will evolve in the future. This year’s theme of ‘Proof of Services’ provided a great opportunity to learn about how blockchain technology is impacting our lives. I also enjoyed the diverse array of events.”",
+      "description_m": "“I’m looking forward to how UDC will evolve in the future. This year’s theme of ‘Proof of Services’ provided a great opportunity to learn about how blockchain technology is impacting our lives. I also enjoyed the diverse array of events.”",
+      "link": "",
+      "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_18.png"
+    }
+  ],
   "feedbacks": [
     {
-      "title": "“An Event<br/>that Brings Developers Together”",
-      "title_m": "“An Event that Brings<br/>Developers Together”",
+      "title": "“An Eventthat Brings Developers Together”",
+      "title_m": "“An Event that BringsDevelopers Together”",
       "name": "Dawn Song",
       "company": "(Founder & CEO of Oasis Labs)",
       "description": "“It’s a great event. I think we should organize more events like this where we bring the developers together and really talk about the technology. It’s a way for the developer community to help everyone better understand cutting edge technology.”",
@@ -10,8 +192,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827076_1.png"
     },
     {
-      "title": "“A Great<br/>Developer Conference”",
-      "title_m": "“A Great<br/>Developer Conference”",
+      "title": "“A GreatDeveloper Conference”",
+      "title_m": "“A GreatDeveloper Conference”",
       "name": "Da Hongfei",
       "description": "“It’s great. NEO is a technology platform, so we love to be at developer conferences, and UDC is a good one.”",
       "company": "(Founder of NEO)",
@@ -22,7 +204,7 @@
       "title": "“Upbit Developer Conference 2018  Comes to an End Successfull”",
       "title_m": "“Upbit Developer Conference 2018  Comes to an End Successfull”",
       "name": "etnews",
-      "description": "‘Upbit Developer Conference (UDC) 2018’, which had Chairman Song Chi-young of Dunamu, CEO Lee Sirgoo of Dunamu, and CEO Bill Shihara of Bittrex in attendance, came to an end on the 14th. UDC took place at ICC (International Convention Center) JEJU<br/>on the 13th and the 14th...<br/>While blockchain events in the past were simply Meetup events where companies introduced their coins, UDC 2018 centered on developers that introduced technical skills and practicality.",
+      "description": "‘Upbit Developer Conference (UDC) 2018’, which had Chairman Song Chi-young of Dunamu, CEO Lee Sirgoo of Dunamu, and CEO Bill Shihara of Bittrex in attendance, came to an end on the 14th. UDC took place at ICC (International Convention Center) JEJUon the 13th and the 14th...While blockchain events in the past were simply Meetup events where companies introduced their coins, UDC 2018 centered on developers that introduced technical skills and practicality.",
       "description_m": "‘Upbit Developer Conference (UDC) 2018’, which had Chairman Sirgoo Lee of Dunamu, CEO Lee Seok-woo of Dunamu, and CEO Bill Shihara of Bittrex in attendance, came to an end on the 14th. ...",
       "company": "",
       "link": "http://english.etnews.com/20180917200003",
@@ -47,8 +229,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827098_5.png"
     },
     {
-      "title": "“A Venue<br/>for Stimulating Interactions”",
-      "title_m": "“A Venue<br/>for Stimulating Interactions”",
+      "title": "“A Venuefor Stimulating Interactions”",
+      "title_m": "“A Venuefor Stimulating Interactions”",
       "name": "Carl Youngblood",
       "description": "“It was amazing. The interactions I had with the attendees at UDC 2018 were really stimulating”",
       "company": "(CTO of Mainframe)",
@@ -56,8 +238,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827143_6.png"
     },
     {
-      "title": "“A Very Well-organized<br/>Event”",
-      "title_m": "“A Very<br/>Well-organized Event”",
+      "title": "“A Very Well-organizedEvent”",
+      "title_m": "“A VeryWell-organized Event”",
       "name": "Edward Greve",
       "description": "“It was great. A lot of interesting people to talk with, and also UDC was very organized and everything was done really well”",
       "company": "(CTO of IOTA)",
@@ -65,8 +247,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827076_7.png"
     },
     {
-      "title": "“High-quality Presenters<br/>and Many Attendees”",
-      "title_m": "“High-quality Presenters<br/>and Many Attendees”",
+      "title": "“High-quality Presentersand Many Attendees”",
+      "title_m": "“High-quality Presentersand Many Attendees”",
       "name": "Qi Zhou",
       "description": "“It was very well-organized, and the presenters were very high quality. There were a lot of attendees, so I was very happy to be there and present our technology.”",
       "company": "(CEO of QuarkChain)",
@@ -75,16 +257,16 @@
     },
     {
       "title": "“Upbit Developer Conference Opens in Jeju Island, Dunamu Chairman Makes Welcome Remarks”",
-      "title_m": "“Upbit Developer Conference Opens<br/>in Jeju Island, Dunamu Chairman<br/>Makes Welcome Remarks”",
+      "title_m": "“Upbit Developer Conference Opensin Jeju Island, Dunamu ChairmanMakes Welcome Remarks”",
       "name": "Blockt",
-      "description": "South Korea’s Jeju Island was painted red by a global community of blockchain enthusiasts on Thursday, Sept 13, as the inaugural Upbit Developer Conference 2018 (UDC 2018) started off with a bang. Founder and Chairman of Dunamu Inc. Chi-Hyung Song took to the podium to... <br/>welcome the attendees. The conference has lined up several major blockchain figures in the industry to address the gathering, including Onchain cofounder Jun Li and Bittrex CEO Bill Shihara, among others.",
+      "description": "South Korea’s Jeju Island was painted red by a global community of blockchain enthusiasts on Thursday, Sept 13, as the inaugural Upbit Developer Conference 2018 (UDC 2018) started off with a bang. Founder and Chairman of Dunamu Inc. Chi-Hyung Song took to the podium to... welcome the attendees. The conference has lined up several major blockchain figures in the industry to address the gathering, including Onchain cofounder Jun Li and Bittrex CEO Bill Shihara, among others.",
       "company": "",
       "link": "https://blokt.com/news/upbit-developer-conference-opens-in-jeju-island-dunamu-chairman-makes-welcome-remarks",
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556462893824_9_.png"
     },
     {
       "title": "“Opportunity to Present along with Globally Renowned Blockchain Experts”",
-      "title_m": "“Opportunity to Present<br/>along with Globally Renowned<br/>Blockchain Experts”",
+      "title_m": "“Opportunity to Presentalong with Globally RenownedBlockchain Experts”",
       "name": "Yong-gil Kwon",
       "description": "“It was an honor to present along with so many globally renowned blockchain experts. It was truly rewarding and meaningful to be able to talk in depth about the work we’re doing.”",
       "company": "(CEO of Neoply)",
@@ -92,8 +274,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827146_10.png"
     },
     {
-      "title": "“Incredibly Professional<br/>and Very Well-organized”",
-      "title_m": "“Incredibly Professional<br/>and Very Well-organized”",
+      "title": "“Incredibly Professionaland Very Well-organized”",
+      "title_m": "“Incredibly Professionaland Very Well-organized”",
       "name": "Gerard Moroney",
       "description": "“I was very impressed. The UDC team was incredibly professional. It was very well-presented and organized and I was very pleased with everything I saw.”",
       "company": "(Project Manager for IOHK)",
@@ -104,14 +286,14 @@
       "title": "“Very Enjoyable”",
       "title_m": "“Very Enjoyable”",
       "name": "Benedict Chan",
-      "description": "“It was very enjoyable. Everyone was trying to see how they can apply the blockchain and get adoption there.<br/>It was a lot about building, and I like that a lot.”",
+      "description": "“It was very enjoyable. Everyone was trying to see how they can apply the blockchain and get adoption there.It was a lot about building, and I like that a lot.”",
       "company": "(CTO of BitGo)",
       "link": "",
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827109_12.png"
     },
     {
-      "title": "“UDC 2018 is proof that blockchain<br/>could be the next internet”",
-      "title_m": "“UDC 2018 is proof that blockchain<br/>could be the next internet”",
+      "title": "“UDC 2018 is proof that blockchaincould be the next internet”",
+      "title_m": "“UDC 2018 is proof that blockchaincould be the next internet”",
       "name": "Joonang Daily",
       "description": "“Over 700 people gathered in ICC Jeju’s Tamna Hall on the early morning of the 13th for the two-day Upbit Developer Conference. Blockchain experts from around the world shared a common theme at the conference: the need for an everyday service based on blockchain ...",
       "company": "",
@@ -120,7 +302,7 @@
     },
     {
       "title": "“A Great Opportunity to Learn about Dynamic and Fascinating Blockchain Projects”",
-      "title_m": "“A Great Opportunity to Learn<br/>about Dynamic and Fascinating<br/>Blockchain Projects”",
+      "title_m": "“A Great Opportunity to Learnabout Dynamic and FascinatingBlockchain Projects”",
       "name": "Heejo Lee",
       "description": "“UDC was a great opportunity to learn firsthand about a wide variety of dynamic and fascinating blockchain projects”",
       "company": "(Professor at Korea University)",
@@ -128,8 +310,8 @@
       "img": "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/1556450827122_14.png"
     },
     {
-      "title": "“In-depth Presentations<br/>and Audience Questions”",
-      "title_m": "“In-depth Presentations<br/>and Audience Questions”",
+      "title": "“In-depth Presentationsand Audience Questions”",
+      "title_m": "“In-depth Presentationsand Audience Questions”",
       "name": "Brian Cheong",
       "description": "“With most of the attendees being developers, both the presentations and audience questions were really in-depth. It was a very productive conference.”",
       "company": "(CEO of TTC Protocol)",
@@ -138,7 +320,7 @@
     },
     {
       "title": "“Meaningful Discussions on the Present and Future of Blockchain Technology”",
-      "title_m": "“Meaningful Discussions<br/>on the Present and Future<br/>of Blockchain Technology”",
+      "title_m": "“Meaningful Discussionson the Present and Futureof Blockchain Technology”",
       "name": "Jae-hyun Park",
       "description": "“A lot of other conferences focus more on the investment aspect, so to be able come together with other developers to discuss the present and future of blockchain technology was truly meaningful.”",
       "company": "(CEO of Lambda256)",
@@ -147,7 +329,7 @@
     },
     {
       "title": "“Dunamu Chairman: Developers are the true foundation of the blockchain ecosystem”",
-      "title_m": "“Dunamu Chairman: Developers<br/>are the true foundation<br/>of the blockchain ecosystem”",
+      "title_m": "“Dunamu Chairman: Developersare the true foundationof the blockchain ecosystem”",
       "name": "ZDNet Korea",
       "description": "“Developers that are currently imagining and preparing for the mass adoption of blockchain technology will end up being the main players of the ecosystem.” ...",
       "description_m": "“Developers that are currently imagining and preparing for the mass adoption of blockchain technology will end up being the main players of the ecosystem.”",
@@ -216,17 +398,15 @@
       }
     ],
     "texts": [
-      "Welcome to the <span class=\"bold\">Upbit Developer Conference!</span>\nUDC is a true developer-centric event where <br class=\"mobile-only\"/>participants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
-      "Dunamu, the operator of crypto-asset exchange Upbit, hosted the inaugural Upbit Developer <br class=\"mobile-only\"/>Conference last September in South Korea’s Jeju Island in an effort to foster and grow the blockchain ecosystem. It is one of the first conferences in the world solely dedicated to blockchain development.",
-      "UDC is a place where developers interested in blockchain technology can come together for in-depth discussions on key innovations and global trends.\nIt is where attendees can find inspirations for impactful technological advancements that can evolve into tangible services that prove the merits of blockchain.",
-      "The slogan for last year’s inaugural event was <span class=\"bold\">‘Proof of Developer.’</span>\nJust as developers provide proof of their work on the blockchain, experts from around the world gathered at UDC 2018 to share their blockchain projects with the rest of the ecosystem.\n Being one of the first conferences dedicated entirely to developers, UDC offered a meaningful experience to both the presenters and attendees.",
-      "This year, UDC will feature numerous blockchain services born from the ideas and hard work of developers. It will be a terrific opportunity <br class=\"mobile-only\"/>to see first-hand how developers are shaping the future through blockchain technology.",
-      "UDC 2019 will bring together developers from around the globe for meaningful exchange of ideas with world-class experts, as well productive networking events and hands-on programs for the next <br class=\"mobile-only\"/>generation of developers."
+      "<span class=\"bold\">Upbit Developer Conference</span> is a true developer-centric event where <br class=\"mobile-only\"/>participants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
+      "Dunamu, the operator of digital asset exchange Upbit, hosted the inaugural Upbit Developer <br class=\"mobile-only\"/>Conference in 2018 in an effort to foster and grow the blockchain ecosystem. It is one of the first conferences in the world solely dedicated to blockchain development.",
+      "<span class=\"bold\">UDC 2019</span> featured numerous services born from the ideas and hard works of blockchain developers, offering a terrific opportunity <br class=\"mobile-only\"/>to see first-hand how blockchain technology is shaping the future.",
+      "UDC 2019 brought together developers from around the globe for meaningful exchange of ideas with world-class experts, as well productive networking events and hands-on programs for the next <br class=\"mobile-only\"/>generation of developers."
     ],
-    "highlight_msg": "Please join us at Upbit Developer Conference in September 2019 for the largest celebration of blockchain technology and developers.",
+    "highlight_msg": "",
     "concepts": [
       {
-        "title": "A Communication Platform<br/>for Developers",
+        "title": "A Communication Platform for Developers",
         "descriptions": [
           "Insight from world-class blockchain developers",
           "New technology and trends that matter to developers",
@@ -249,5 +429,62 @@
         ]
       }
     ]
+  },
+  "2020": {
+    "subTitle": "Solving the Future with Blockchain",
+    "description": "<p>With the theme of <strong>‘return blockchain * future;’</strong></br>UDC 2020 will discuss the role and impact of blockchain in the pandemic era</br>and where the industry is headed in 2021 and beyond.</p>",
+    "whatIs": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
+    "whatIsM": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
+    "aboutFirst": [
+      "Since COVID-19 has hit the world,<br/>living with the virus has become a part of our daily lives,",
+      "The everyday things we used to do,<br/>like spending time with family<br/>hanging out with friends and<br/>taking a walk around the neighborhood,<br/>have become something that is no longer \"normal\".",
+      "The changes brought about by COVID-19 are completely transforming our daily lives and perceptions.",
+      "So, what should we worry about during these challenging times?<br/>What are the concerns of developers in the blockchain industry?<br/>How can blockchain help us get through the pandemic?"
+    ],
+    "aboutSec": [
+      "UDC 2020 will be held online with the theme of 'return blockchain * future;'",
+      "What would the answer be if you enter blockchain and future?<br/>As we cover the upcoming trends regarding blockchain in 2021,<br/>we would like to find the answer to this question with you.",
+      "Please look forward to UDC 2020!"
+    ],
+    "aboutM": [
+      "Since COVID-19 has hit the world,<br/>living with the virus has become a part of our daily lives,",
+      "The everyday things we used to do,<br/>like spending time with family<br/>hanging out with friends and<br/>taking a walk around the neighborhood,<br/>have become something that is no longer \"normal\".",
+      "The changes brought about by COVID-19 are completely transforming our daily lives and perceptions.",
+      "So, what should we worry about <br/>during these challenging times?<br/>What are the concerns of developers<br/>in the blockchain industry?<br/>How can blockchain help us get through the pandemic?",
+      "\"return blockchain * future\"<br/>UDC 2020 will be held online with the theme of 'return blockchain * future;'",
+      "What would the answer be if you enter blockchain and future?<br/>As we cover the upcoming trends regarding blockchain in 2021,<br/>we would like to find the answer to this question with you.",
+      "Please look forward to UDC 2020!"
+    ],
+    "concepts": [
+      {
+        "title": "A Communication Platform for Developers",
+        "descriptions": [
+          "Insight from world-class blockchain developers",
+          "New technology and trends that matter to developers",
+          "Numerous events to share and exchange ideas"
+        ]
+      },
+      {
+        "title": "In-depth Exchange of Ideas",
+        "descriptions": [
+          "An event dedicated to developers",
+          "Speakers that provide real and applicable insight",
+          "Diverse formats to allow active exchange of ideas for developers"
+        ]
+      },
+      {
+        "title": "Where We Can Get Together",
+        "descriptions": [
+          "Free online conference UDC",
+          "Enjoy by participating in pre-registration and live events."
+        ]
+      }
+    ],
+    "menu": [
+      "Speakers",
+      "Program",
+      "Sign Up"
+    ]
   }
+  
 }

@@ -1,6 +1,6 @@
 {
   "loginFailed": {
-    "title": "등록된 티켓 정보가 없습니다.",
+    "title": "예약하신 정보가 없습니다.",
     "message": "휴대폰 번호 및 비밀번호를 다시 한번 확인해 주세요.<br/><p class=\"note\">*비밀번호 5회 입력 오류 시 로그인이 제한되오니 유의하여 주시기 바랍니다.</p>",
     "link": {
       "title": "비밀번호 찾기",
@@ -8,12 +8,11 @@
     },
     "buttons": [
       {
-        "title": "메인으로",
-        "path": "/"
+        "title": "확인"
       },
       {
-        "title": "티켓 구매하기",
-        "path": "/registration"
+        "title": "사전 예약하기",
+        "path": "/subscription"
       }
     ]
   },

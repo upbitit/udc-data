@@ -143,6 +143,7 @@ section.page-sec.special-event .tab-content-body .info-list>li span { float:left
 section.page-sec.special-event .tab-content-body .info-list>li span.long.ty02 { width:100%; }
 section.page-sec.special-event .tab-content-body .info-list>li span:lang(ko) { font-family: NanumSquare;font-size: 3.73333vw; }
 section.page-sec.special-event .tab-content-body .info-list>li span:first-of-type { height: 100%;width: 23%;font-weight: 700; } 
+section.page-sec.special-event .tab-content-body .info-list>li span.mo { width:100%; } 
 section.page-sec.special-event .tab-content-body .info-list>li:lang(en) span { width:65%; }
 section.page-sec.special-event .tab-content-body .info-list>li:lang(en) span:first-of-type { width: 35%;} 
 section.page-sec.special-event .tab-content-body .info-list>li.short:lang(en) span { width: 80%;} 
@@ -247,6 +248,11 @@ section.page-sec.special-event .grayB table.freeT th em { display:block;font-wei
 section.page-sec.special-event .grayB table.freeT td { height:60px;border:2px solid #f8f9fa;background:#ffffff;color:#666666;font-size:3.73333vw;font-weight:bold;vertical-align:middle;line-height:1.5;text-align:center; }
 section.page-sec.special-event .grayB table.freeT td:last-of-type { border-right:0; }
 section.page-sec.special-event .grayB table.freeT td strong { display:block;color:#0367d9;font-size:16px; }
+section.page-sec.special-event .grayB table.freeT td a.btn { display:inline-block;width:78%;height:24px;margin:0 auto;vertical-align:middle; }
+section.page-sec.special-event .grayB table.freeT td a.btn em { float:left;display:inline-block;height:24px;color:#666666;font-size:3.73333vw;font-weight:bold;vertical-align:middle;line-height:24px;text-align:center;font-style:normal !important; }
+section.page-sec.special-event .grayB table.freeT td a.btn em cite { display:none; }
+section.page-sec.special-event .grayB table.freeT td a.btn i { display:inline-block;width:16px;height:16px;margin:0;background:url('https://udc-file.s3.ap-northeast-2.amazonaws.com/files/1567670841624_btn_down01_mo.png') 0 0 no-repeat;overflow:hidden;text-indent:-999em;vertical-align:-4px;background-size:100%; }
+section.page-sec.special-event .grayB table.freeT td a.btn.ty02 i { background:url('https://udc-file.s3.ap-northeast-2.amazonaws.com/files/1567670841621_btn_down02_mo.png') 0 0 no-repeat;vertical-align:-4px;background-size:100%; }
 
 }
 
@@ -284,12 +290,15 @@ section.page-sec.special-event .tab-content-body .info-list>li>span cite.txt { c
 section.page-sec.special-event .tab-content-body .info-list>li>span { display:inline-block;vertical-align:top; } 
 section.page-sec.special-event .tab-content-body .info-list>li span:lang(ko).dot { width:400px; }
 section.page-sec.special-event .tab-content-body .info-list>li span:lang(ko).dot:before { position:absolute;top:0;left:0;content:'※'; }
-section.page-sec.special-event .tab-content-body .info-list>li>span.long { width:990px; }
-section.page-sec.special-event .tab-content-body .info-list>li>span.long.dot { width:975px;padding-left:15px; }
+section.page-sec.special-event .tab-content-body .info-list>li>span.long { width:950px; }
+section.page-sec.special-event .tab-content-body .info-list>li>span.long.dot { width:935px;padding-left:15px; }
+/*section.page-sec.special-event .tab-content-body .info-list>li>span.long { width:990px; }
+section.page-sec.special-event .tab-content-body .info-list>li>span.long.dot { width:975px;padding-left:15px; }*/
 section.page-sec.special-event .tab-content-body .info-list>li span:lang(ko).long.dot:before { content:''; }
 section.page-sec.special-event .tab-content-body .info-list>li>span.long.dot strong { position:relative; }
 section.page-sec.special-event .tab-content-body .info-list>li>span.long.dot strong:before { position:absolute;top:0;left:-15px;content:'*'; }
-section.page-sec.special-event .tab-content-body .info-list>li>span:first-of-type { width:90px; }
+section.page-sec.special-event .tab-content-body .info-list>li>span:first-of-type { width:130px; }
+/*section.page-sec.special-event .tab-content-body .info-list>li>span:first-of-type { width:90px; }*/
 section.page-sec.special-event .tab-content-body .info-list>li:lang(en)>span:first-of-type { width:165px;font-size:18px;font-weight:600; }
 section.page-sec.special-event .tab-content-body .info-list>li.short:lang(en)>span:first-of-type { width:65px; }
 section.page-sec.special-event .tab-content-body .info-list>li.short:lang(en)>span { vertical-align:middle; }
@@ -382,10 +391,16 @@ section.page-sec.special-event .grayB span.examT { display:none; }
 
 section.page-sec.special-event .grayB table.freeT { width:100%; }
 section.page-sec.special-event .grayB table.freeT th { height:60px;border:2px solid #f8f9fa;border-left:0;background:#7da1d6;color:#ffffff;font-size:16px;font-weight:bold;vertical-align:middle;line-height:1.5;text-align:center; }
-section.page-sec.special-event .grayB table.freeT tr:first-of-type th { background:#7db0e9; }
+section.page-sec.special-event .grayB table.freeT tr:nth-child(odd) th { background:#7db0e9; }
+section.page-sec.special-event .grayB table.freeT tr:nth-child(even) th { background:#7da1d6; }
 section.page-sec.special-event .grayB table.freeT th em { display:block;font-weight:normal; }
 section.page-sec.special-event .grayB table.freeT td { height:60px;border:2px solid #f8f9fa;background:#ffffff;color:#666666;font-size:14px;font-weight:bold;vertical-align:middle;line-height:1.5;text-align:center; }
 section.page-sec.special-event .grayB table.freeT td:last-of-type { border-right:0; }
 section.page-sec.special-event .grayB table.freeT td strong { display:block;color:#0367d9;font-size:16px; }
+section.page-sec.special-event .grayB table.freeT td a.btn { display:block;width:80%;height:60px;line-height:60px;margin:0 auto;overflow:hidden; }
+section.page-sec.special-event .grayB table.freeT td a.btn em { float:left;display:block;color:#666666;font-size:16px;font-weight:300;font-style:normal !important; }
+section.page-sec.special-event .grayB table.freeT td a.btn i { float:right;display:block;width:24px;height:18px;margin-top:20px;background:url('https://udc-file.s3.ap-northeast-2.amazonaws.com/files/1567670841625_btn_down01.png') 0 0 no-repeat;overflow:hidden;text-indent:-999em; }
+section.page-sec.special-event .grayB table.freeT td a.btn.ty02 i { height:24px;margin-top:18px;background:url('https://udc-file.s3.ap-northeast-2.amazonaws.com/files/1567670797007_btn_down02.png') 0 0 no-repeat; }
+
 
 }
