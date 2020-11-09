@@ -5,6 +5,13 @@
     "speakerScheduleGroup": "EXPERT SESSION",
     "tab2dateTab1Title": "DAY 1 - Sep. 4 <span class=\"date\">(Wed)</span>",
     "tab2dateTab2Title": "DAY 2 - Sep. 5 <span class=\"date\">(Thu)</span>",
+    "dateTitles": {
+      "day1": "DAY 1 - Nov.30<span class=\"date\">(Mon)</span>",
+      "day2": "DAY 2 - Dec. 1<span class=\"date\">(Tue)</span>",
+      "day3": "DAY 3 - Dec. 2<span class=\"date\">(Wed)</span>",
+      "day4": "DAY 4 - Dec. 3<span class=\"date\">(Thu)</span>",
+      "day5": "DAY 5 - Dec. 4<span class=\"date\">(Fri)</span>"
+    },
     "sessionType": "<span class=\"pc-only\">Session Type</span><span class=\"mobile-only\">Sessions</span>",
     "programTextFoot": "* Some of presentation materials and videos are not made public at speaker's request. Thank you, in advance, for your kind understanding."
 }
