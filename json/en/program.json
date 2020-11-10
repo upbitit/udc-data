@@ -12,6 +12,10 @@
       "day4": "DAY 4 - Dec. 3<span class=\"date\">(Thu)</span>",
       "day5": "DAY 5 - Dec. 4<span class=\"date\">(Fri)</span>"
     },
+    "2020": {
+      "date": "Nov. 30th (Mon) - Dec. 4th (Fri), 11:30~end time",
+      "footer": "* Please note that the above session schedule is subject to change due to certain circumstances."
+    },
     "sessionType": "<span class=\"pc-only\">Session Type</span><span class=\"mobile-only\">Sessions</span>",
     "programTextFoot": "* Some of presentation materials and videos are not made public at speaker's request. Thank you, in advance, for your kind understanding."
 }
