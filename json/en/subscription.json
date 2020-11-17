@@ -22,7 +22,7 @@
     "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
     "disagree": "Disagree",
     "next": "Agree",
-    "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services.",
+    "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services."
   },
   "step2": {
     "title": "2. Attendee Information",
