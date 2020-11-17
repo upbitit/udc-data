@@ -23,7 +23,6 @@
     "disagree": "Disagree",
     "next": "Agree",
     "portraitAgreement": "※ The user has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the user refuses to consent. However, if the user refuses to give consent for the required consent(mandatory), he or she shall face limitations in using some services.",
-    "finished": "UDC 2020 Sign-up has been closed."
   },
   "step2": {
     "title": "2. Attendee Information",
@@ -75,5 +74,6 @@
     "description": "Please enter the mobile phone number and password you used."
   },
   "success": "Your Sign-up has been completed.",
-  "error": "There was an error with your registration. Please try registering again."
+  "error": "There was an error with your registration. Please try registering again.",
+  "ended": "UDC 2020 Sign-up has been closed."
 }
