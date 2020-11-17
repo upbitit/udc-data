@@ -39,5 +39,17 @@
     "buttons": [
       "Buy More Tickets"
     ]
+  },
+  "subscriptionEnded": {
+    "title": "UDC 2020 Sign-up has been closed.",
+    "buttons": [
+      {
+        "title": "Confirm"
+      },
+      {
+        "title": "Go to Main Page",
+        "path": "/"
+      }
+    ]
   }
 }
