@@ -74,5 +74,6 @@
     "description": "Please enter the mobile phone number and password you used."
   },
   "success": "Your Sign-up has been completed.",
-  "error": "There was an error with your registration. Please try registering again."
+  "error": "There was an error with your registration. Please try registering again.",
+  "ended": "UDC 2020 Sign-up has been closed."
 }

@@ -39,5 +39,17 @@
     "buttons": [
       "추가 티켓 구매"
     ]
+  },
+  "subscriptionEnded": {
+    "title": "UDC 2020 사전 예약이 마감되었습니다.",
+    "buttons": [
+      {
+        "title": "확인"
+      },
+      {
+        "title": "메인페이지로 이동",
+        "path": "/"
+      }
+    ]
   }
 }
